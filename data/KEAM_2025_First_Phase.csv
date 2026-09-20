@@ -1,0 +1,801 @@
+﻿course,college_code,college_name,type,SM,EZ,MU,LA,DV,VK,BH,BX,KN,KU,SC,ST,EW,Other Categories,page
+Applied Electronics & Instrumentation,KKE,"Government Engineering College, Kozhikkode",G,11530,17344,14099,46014,48210,15918,15676,41092,47064,-,62150,-,36579,FW:10197,1
+Applied Electronics & Instrumentation,TVE,"College of Engineering, Thiruvananthapuram",G,1885,2889,2315,3601,12340,2108,2070,7721,2637,30093,23310,-,5988,FW:1618,1
+Applied Electronics & Instrumentation,RET,"Rajagiri School of Engineering and Technology, Ernakulam",S,17309,21632,21127,29833,51244,63871,26305,-,-,-,64859,-,-,FW:14565,1
+B.Tech. (Agrl. Engg.),KCT,"Kelappaji College of Agricultural Engineering and Food Technology, Tavanur",G,16371,19141,18624,25909,25244,18341,18187,-,29726,-,45138,61142,50472,PT:36,1
+Artificial Intelligence and Machine Learning,MAC,"Mar Athanasius College of Engineering, Kothamangalam",G,5243,6448,6185,7460,16570,5611,5517,-,-,18649,29102,-,-,FW:3884,1
+Artificial Intelligence and Machine Learning,AAE,"Al-Azhar College of Engineering and Technology, Idukki",S,64221,-,-,-,-,-,-,-,-,-,-,-,-,,1
+Artificial Intelligence and Machine Learning,ATP,"Ahalia School of Engineering and Technology, Palakkad",S,52752,60236,57660,-,-,-,53048,-,-,-,54060,-,-,,1
+Artificial Intelligence and Machine Learning,CCV,"MGM TECHNOLOGICAL CAMPUS,Valanchery",S,67454,-,-,-,-,-,-,-,-,-,-,-,-,FW:67031,1
+Artificial Intelligence and Machine Learning,CEN,"College of Engineering and Technology, Payyanur",S,55914,61341,56926,-,-,-,56741,-,-,-,-,-,-,FW:46140,1
+Artificial Intelligence and Machine Learning,GIK,"Gregorian Institute of Technology,Kanjirampara,Kottayam",S,64500,-,-,-,-,-,-,-,-,-,-,-,-,,1
+Artificial Intelligence and Machine Learning,IGW,"Indira Gandhi Institute of Engineering and Technology, Ernakulam",S,53307,65956,60531,56844,67076,-,63426,-,-,-,-,-,-,FW:24893,1
+Artificial Intelligence and Machine Learning,JBT,"Jai Bharath College of Management and Engineering Technology, Ernakulam",S,65780,-,-,-,-,-,-,-,-,-,-,-,-,FW:59886,1
+Artificial Intelligence and Machine Learning,MCE,"Marian Engineering College, Thiruvananthapuram",S,37343,42693,47525,38033,-,-,43377,47523,-,-,-,-,-,FW:29428,2
+Artificial Intelligence and Machine Learning,MCT,"Mohandas College of Engineering and Technology, Thiruvananthapuram",S,53989,59803,59426,57117,-,65374,56059,-,-,-,-,-,-,FW:45349,2
+Artificial Intelligence and Machine Learning,MEC,"Malabar College of Engineering and Technology, Thrissur",S,65943,-,-,-,-,-,66953,-,-,-,-,-,-,,2
+Artificial Intelligence and Machine Learning,MGE,"MGM College of Engineering & Technology, Ernakulam",S,66351,-,-,-,-,-,-,-,-,-,-,-,-,,2
+Artificial Intelligence and Machine Learning,MHP,"ACE College Of Engineering, Thiruvananthapuram",S,49594,63610,52832,54130,-,-,55467,58637,-,-,67296,-,-,FW:33955,2
+Artificial Intelligence and Machine Learning,MLM,"Mangalam College of Engineering, Kottayam",S,57875,63750,-,-,-,-,-,-,-,-,67261,-,-,FW:38850,2
+Artificial Intelligence and Machine Learning,PAA,"P A Aziz College of Engineering and Technology, Thiruvananthapuram",S,66706,-,-,-,-,-,-,-,-,-,-,-,-,,2
+Artificial Intelligence and Machine Learning,SNG,"Sree Narayana Gurukulam College of Engineering, Ernakulam",S,44138,47362,54180,-,60078,-,54128,-,-,-,65694,-,-,FW:29096,2
+Artificial Intelligence and Machine Learning,VAS,"Vidya Academy of Science and Technology, Thrissur",S,32110,36445,38895,66169,42760,40801,33671,-,-,-,66221,-,49262,FW:22802,2
+Artificial Intelligence and Machine Learning,VPE,"Mahaguru Institute of Technology, Mavelikkara, Alappuzha",S,66433,-,-,-,-,-,-,-,-,-,-,-,-,FW:52789,2
+Cyber Physical Systems,TCR,"Government Engineering College, Thrissur",G,7088,9203,8497,15700,20033,11812,9709,18346,35892,51821,36876,-,15334,FW:4343,2
+Civil Engineering,KKE,"Government Engineering College, Kozhikkode",G,12998,19951,16470,38628,32701,20191,18040,18336,30513,-,47867,29061,35251,FW:10533,2
+Civil Engineering,KNR,"Government College of Engineering, Kannur",G,12780,17817,16338,32579,18699,17254,17730,26360,-,-,48835,48823,32587,FW:10376,3
+Civil Engineering,KTE,"Government Rajiv Gandhi Institute of Technology, Kottayam",G,13080,14531,14430,24582,52699,14269,14560,14173,31511,-,41180,53974,22978,"CC:26, FW:10273",3
+Civil Engineering,MAC,"Mar Athanasius College of Engineering, Kothamangalam",G,13132,15422,15099,29275,44162,17115,17392,17151,44564,43775,49461,61172,-,FW:11511,3
+Civil Engineering,NSS,"N S S College of Engineering, Palakkad",G,13129,19904,16534,37278,51396,20034,17963,19122,32466,-,49400,60625,29015,FW:11292,3
+Civil Engineering,PKD,"Government Engineering College, Palakkad",G,12140,18257,16331,43928,44369,20291,19724,22864,36863,-,46718,42167,39597,FW:13045,3
+Civil Engineering,TCR,"Government Engineering College, Thrissur",G,8797,10069,9362,21723,28231,9996,9885,17189,15104,45725,28271,50130,16402,"FW:6719, SD:18994, XS:9324",3
+Civil Engineering,TKM,"T K M College of Engineering, Kollam",G,9896,11775,10690,18382,37246,12309,11916,15210,19555,58070,34595,54949,-,"FW:7634, SD:40916",3
+Civil Engineering,TRV,"Government Engineering College Barton Hill, Thiruvananthapuram",G,11459,13000,12527,19769,41816,14542,12962,14677,-,56198,35885,54542,18329,FW:8368,3
+Civil Engineering,TVE,"College of Engineering, Thiruvananthapuram",G,5059,6642,5977,9716,21976,6541,5808,8021,14388,12328,23164,43744,12090,"CC:13, FW:3592, PI:8, RP:7724, SD:14753, XS:6121",3
+Civil Engineering,AEC,"College of Engineering of Aranmula, Pathanamthitta",N,63849,64926,-,-,-,-,-,-,-,-,66445,-,-,,3
+Civil Engineering,CEM,"College of Engineering Muttathara, Thiruvananthapuram",N,37280,45572,40117,44294,-,45315,44553,-,-,-,60568,66261,63059,,3
+Civil Engineering,KGR,"College of Engineering Kidangoor, KOTTAYAM",N,36409,49240,53471,56760,56744,39768,43054,-,-,-,65893,64219,49125,,3
+Civil Engineering,KSD,"LBS College of Engineering, Kasaragod",N,38554,45028,43988,-,-,44780,39061,66140,-,-,-,64414,41699,"FW:27615, MG:50440",3
+Civil Engineering,LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,20897,22661,23870,28341,-,21681,29737,-,-,-,52231,58391,48535,"FW:16434, MG:31451",3
+Civil Engineering,PEC,"College of Engineering Pathanapuram, Kollam",N,52331,55990,57565,59888,63411,52713,62351,63845,-,-,61983,-,54294,,3
+Civil Engineering,PRP,College of Engineering and Management Punnnapra,N,60649,-,66199,-,-,-,66510,62732,-,-,63197,65189,-,,3
+Civil Engineering,TKR,"College of Engineering, Trikaripur",N,47874,55434,57808,-,-,50351,48932,-,-,-,58122,-,58943,FW:30643,3
+Civil Engineering,TLY,"College of Engineering,Thalassery, Kannur",N,30632,36808,38208,-,-,31822,31765,-,49140,-,67298,-,58257,FW:20473,3
+Civil Engineering,VDA,"College of Engineering, Vadakara",N,43989,50286,47147,-,-,47957,49105,47865,-,-,57042,65266,66078,FW:21961,3
+Civil Engineering,AAE,"Al-Azhar College of Engineering and Technology, Idukki",S,64747,-,-,-,-,-,-,-,-,-,-,-,-,,3
+Civil Engineering,AAP,"Al-Ameen Engineering College, Palakkad",S,65529,-,-,-,-,-,-,-,-,-,-,-,-,,4
+Civil Engineering,AIK,"Albertian Institute of Science and Technology, Kochi",S,66413,-,-,-,-,-,-,-,-,-,-,-,-,,4
+Civil Engineering,AJC,"Amal Jyothi College of Engineering, Kottayam",S,44159,61237,47830,-,-,44328,63100,-,-,-,-,-,-,FW:35122,4
+Civil Engineering,AME,"Rajadhani Institute of Science and Technology, Palakkad",S,62486,-,-,-,-,-,-,-,-,-,-,-,-,,4
+Civil Engineering,ASI,"Adi Shankara Institute of Engineering and Technology, Ernakulam",S,51122,59188,59562,-,-,-,-,-,-,-,-,-,-,,4
+Civil Engineering,ATP,"Ahalia School of Engineering and Technology, Palakkad",S,67429,-,-,-,-,-,-,-,-,-,-,-,-,FW:57855,4
+Civil Engineering,AWH,"AWH Engineering College, Kozhikkode",S,58765,64477,66112,-,-,-,-,-,-,-,-,-,-,,4
+Civil Engineering,BJK,"Bishop Jerome Institute, Kollam",S,49351,55603,58049,57259,-,-,-,-,-,-,-,-,-,FW:40633,4
+Civil Engineering,BMC,"Baselios Mathews II College of Engineering, Kollam",S,65471,-,-,-,-,-,-,-,-,-,-,-,-,FW:35871,4
+Civil Engineering,CCE,"Christ College of Engineering, Thrissur",S,34798,39827,39379,-,54679,55764,41302,62626,-,-,58967,-,-,FW:24132,4
+Civil Engineering,CEN,"College of Engineering and Technology, Payyanur",S,60549,-,62508,-,-,-,-,-,-,-,-,-,-,,4
+Civil Engineering,CMA,"Carmel College of Engineering and Technology,Alappuzha",S,63706,-,-,-,-,-,-,-,-,-,-,-,-,FW:48173,4
+Civil Engineering,DMC,"M. Dasan Institute of Technology, Kozhikode",S,67104,-,-,-,-,-,-,-,-,-,-,-,-,,4
+Civil Engineering,EKC,"Eranad Knowledge City Technical Campus, Malappuram",S,66640,-,-,-,-,-,-,-,-,-,-,-,-,,4
+Civil Engineering,FIT,"Federal Institute of Science and Technology, Ernakulam",S,32506,38612,37091,44192,57922,35121,34981,48591,-,43860,65207,-,52155,FW:25098,4
+Civil Engineering,HGW,"Holy Grace Academy of Engineering, Thrissur",S,65443,-,-,-,-,-,-,-,-,-,-,-,-,,4
+Civil Engineering,ICE,"Ilahia College of Engineering and Technology, Ernakulam",S,57053,-,64021,-,-,-,-,-,-,-,-,-,-,FW:33241,4
+Civil Engineering,IES,"I E S College of Engineering, Thrissur",S,66198,-,-,-,-,-,-,-,-,-,-,-,-,FW:46403,4
+Civil Engineering,IGW,"Indira Gandhi Institute of Engineering and Technology, Ernakulam",S,62608,-,-,-,-,-,-,-,-,-,-,-,-,,5
+Civil Engineering,JBT,"Jai Bharath College of Management and Engineering Technology, Ernakulam",S,65886,-,-,-,-,-,-,-,-,-,-,-,-,,5
+Civil Engineering,JEC,"Jyothi Engineering College, Thrissur",S,46744,57555,60143,-,-,-,-,-,-,-,66675,-,-,FW:38736,5
+Civil Engineering,JIT,"John Cox Memorial C S I Institute of Technology, Thiruvananthapuram",S,67130,-,-,-,-,-,-,-,-,-,-,-,-,,5
+Civil Engineering,KIT,"Kottayam Institute of Technology and Science, Kottayam",S,49434,-,-,-,-,-,-,-,-,-,-,-,-,,5
+Civil Engineering,KMC,"KMCT College of Engineering, Kozhikode",S,53768,56667,57834,-,-,-,65785,-,-,-,-,-,-,,5
+Civil Engineering,KME,"K M E A Engineering College, Cochin",S,64897,-,-,-,-,-,-,-,-,-,-,-,-,FW:56541,5
+Civil Engineering,KMW,"KMCT College of Engineering for Women, Kozhikode",S,66734,-,-,-,-,-,-,-,-,-,-,-,-,,5
+Civil Engineering,LMC,"Lourdes Matha College of Science and Technology, Thiruvananthapuram",S,54304,63759,60597,66650,-,-,-,-,-,-,-,-,-,,5
+Civil Engineering,MBC,"Mar Baselios Christian College of Engineering and Technology,Idukki",S,62311,-,-,-,-,-,-,-,-,-,64605,-,-,,5
+Civil Engineering,MBI,"Mar Baselios Institute of Technology and Science, Ernakulam",S,39102,56767,40450,-,-,-,-,-,-,-,-,-,-,,5
+Civil Engineering,MBT,"Mar Baselios College of Engineering and Technology, Thiruvananthapuram",S,38008,51679,52643,43893,-,39110,39859,42870,40227,-,67377,58583,-,FW:30960,5
+Civil Engineering,MCC,"Musaliar College Of Engineering, Thiruvananthapuram",S,-,-,-,-,-,-,-,-,-,-,-,-,-,FW:66975,5
+Civil Engineering,MCE,"Marian Engineering College, Thiruvananthapuram",S,49558,56568,56079,51291,-,-,-,-,-,-,-,-,-,,5
+Civil Engineering,MCK,"Musaliar College of Engineering and Technology, Pathanamthitta",S,63833,-,-,-,-,-,-,-,-,-,-,-,-,,5
+Civil Engineering,MCT,"Mohandas College of Engineering and Technology, Thiruvananthapuram",S,63039,-,-,-,-,-,-,-,-,-,-,-,-,,5
+Civil Engineering,MEA,"M E A Engineering College, Vengoor",S,38765,-,40689,-,-,-,-,-,-,-,-,-,-,FW:28321,5
+Civil Engineering,MEE,"MES College of Engineering and Technology, Ernakulam",S,64748,-,-,-,-,-,-,-,-,-,-,-,-,,5
+Civil Engineering,MEK,"MES Institute of Technology and Management, Kollam",S,60684,66988,62755,-,-,-,-,-,-,-,-,-,-,FW:37955,6
+Civil Engineering,MES,"M E S College of Engineering, Kuttippuram",S,34711,49555,36793,-,-,56064,62050,-,-,-,64408,-,-,FW:26788,6
+Civil Engineering,MET,"Mets School of Engineering, Thrissur",S,51917,-,-,-,-,-,-,-,-,-,-,-,-,,6
+Civil Engineering,MGP,"Saintgits College of Engineering, Kottayam",S,41869,51736,55536,60155,-,-,44737,57308,-,-,63391,-,-,FW:32653,6
+Civil Engineering,MHP,"ACE College Of Engineering, Thiruvananthapuram",S,62483,-,66127,66174,-,-,66915,-,-,-,-,-,-,,6
+Civil Engineering,MLM,"Mangalam College of Engineering, Kottayam",S,63123,-,-,-,-,-,-,-,-,-,-,-,-,FW:51009,6
+Civil Engineering,MLT,"Malabar Institute of Technology, Kannur",S,64238,-,64566,-,-,-,-,-,-,-,-,-,-,,6
+Civil Engineering,MUS,"Muslim Association College of Engineering, Thiruvananthapuram",S,67102,-,-,-,-,-,-,-,-,-,-,-,-,,6
+Civil Engineering,MUT,"Muthoot Institute of Technology and Science,Ernakulam",S,27192,31207,28500,45784,53628,-,29954,-,-,55123,64587,-,44728,FW:24211,6
+Civil Engineering,MZC,"Mount Zion College of Engineering, Pathanamthitta",S,51742,-,-,-,-,-,-,-,-,-,-,-,-,,6
+Civil Engineering,NIE,"Nirmala College of Engineering Technology and Management, Thirissur",S,63879,-,-,-,-,-,-,-,-,-,-,-,-,,6
+Civil Engineering,PRC,"Providence College of Engineering, Chengannur",S,64538,-,-,-,-,-,-,-,-,-,-,-,-,,6
+Civil Engineering,RCE,"Royal College of Engineering and Technology, Thrissur",S,65011,-,-,-,-,-,-,-,-,-,-,-,-,,6
+Civil Engineering,RET,"Rajagiri School of Engineering and Technology, Ernakulam",S,21260,21930,24903,33773,-,-,23974,-,-,-,58142,63399,-,FW:18008,6
+Civil Engineering,RIE,"Rajadhani Institute of Engineering and Technology, Thiruvananthapuram",S,47928,49452,48286,63291,-,-,-,-,-,-,-,-,-,FW:47643,6
+Civil Engineering,SBC,"Sree Buddha College of Engineering, Alappuzha",S,62798,-,66040,-,-,-,66177,-,-,-,-,-,-,,6
+Civil Engineering,SCM,"SCMS School of Engineering and Technology, Ernakulam",S,41162,51843,43285,-,-,-,61652,-,-,-,62128,-,-,,6
+Civil Engineering,SHR,"Sahrdaya College of Engineering and Technology, Thrissur",S,41119,51137,46538,-,-,-,-,-,-,-,-,-,-,FW:20628,6
+Civil Engineering,SIT,"Sarabhai Institute of Science and Technology, Thiruvananthapuram",S,65198,-,-,-,-,-,-,-,-,-,-,-,-,,7
+Civil Engineering,SJC,"St Josephs College of Engineering and Technology, Palai",S,40803,-,45517,-,-,-,-,-,-,-,-,-,-,,7
+Civil Engineering,SNC,"Sree Narayana Guru College of Engineering and Technology, Kannur",S,58634,63198,60721,-,-,60256,59933,-,-,-,-,-,-,,7
+Civil Engineering,SNG,"Sree Narayana Gurukulam College of Engineering, Ernakulam",S,65972,-,-,-,-,-,-,-,-,-,-,-,-,,7
+Civil Engineering,SNM,"SNM Institute of Management and Technology, Ernakulam",S,56498,-,-,-,-,-,-,-,-,-,-,-,-,,7
+Civil Engineering,SNP,"Sree Narayana Institute of Technology, Adoor",S,58003,-,-,-,-,-,-,-,-,-,-,-,-,,7
+Civil Engineering,SPT,"Sreepathy Institute of Management and Technology, Palakkad",S,57171,-,-,-,-,-,58535,-,-,-,-,-,-,,7
+Civil Engineering,STC,"St Thomas Colllege of Engineering and Technology, Alappuzha",S,66929,-,-,-,-,-,-,-,-,-,-,-,-,,7
+Civil Engineering,STI,"St. Thomas Institute For Science and Technology, Thiruvananthapuram",S,67256,-,-,-,-,-,-,-,-,-,-,-,-,,7
+Civil Engineering,STM,"St.Thomas College of Engineering and Technology,Kannur",S,60104,60901,61585,-,-,-,-,-,-,-,-,-,-,FW:49063,7
+Civil Engineering,TCE,"TOMS College of Engineering,Kottayam",S,65141,-,-,-,-,-,-,-,-,-,-,-,-,,7
+Civil Engineering,TCT,"Trinity College of Engineering, Thiruvananthapuram",S,65402,-,-,-,-,-,-,67115,-,-,-,-,-,FW:32713,7
+Civil Engineering,TJE,"Thejus Engineering College, Thrissur",S,55844,-,-,-,-,-,-,-,-,-,-,-,-,,7
+Civil Engineering,TKI,"T K M Institute of Technology, Kollam",S,33603,39904,34765,-,47700,-,-,-,-,-,56664,-,-,FW:20008,7
+Civil Engineering,TOC,"Toc H Institute of Science and Technology, Ernakulam",S,61153,-,62335,-,-,-,-,-,-,-,-,-,-,FW:18145,7
+Civil Engineering,UKP,"UKF College of Engineering and Technology, Kollam",S,60572,66128,-,-,-,-,-,-,-,-,-,63950,-,FW:30036,7
+Civil Engineering,UNT,"Universal Engineering College, Thrissur",S,62522,-,-,-,-,-,-,-,-,-,-,-,-,FW:49420,7
+Civil Engineering,VAK,"Vidya Academy of Science and Technology, Thiruvananthapuram",S,57520,63964,57718,-,-,-,60347,-,-,-,67237,66517,62476,FW:24511,7
+Civil Engineering,VAS,"Vidya Academy of Science and Technology, Thrissur",S,50068,55116,55555,-,57750,63002,50146,-,-,-,66867,-,60234,FW:25427,8
+Civil Engineering,VIT,"VISAT Engineering College, Ernakulam",S,61306,-,-,-,-,-,-,-,-,-,-,-,-,,8
+Civil Engineering,VJC,"Viswajyothi College of Engineering and Technology, Ernakulam",S,51148,-,65547,-,-,-,58010,-,-,-,-,-,-,,8
+Civil Engineering,VKE,"Valia Koonambaikulathamma College of Engineering and Technology, Parippally",S,65034,-,-,-,-,-,-,-,-,-,-,-,-,,8
+Civil Engineering,VML,"Vimal Jyothi Engineering College, Kannur",S,38322,44560,44204,-,-,-,-,-,67193,-,-,-,-,FW:17515,8
+Civil Engineering,VPE,"Mahaguru Institute of Technology, Mavelikkara, Alappuzha",S,61427,-,-,-,-,-,-,-,-,-,-,-,-,,8
+Civil Engineering,VVT,"Veda Vyasa Institute of Technology, Malappuram.",S,59507,-,-,-,-,-,-,-,-,-,-,-,-,FW:64433,8
+Civil Engineering,YCE,"Younus College of Engineering and Technology, Kollam",S,60679,-,-,-,-,-,-,-,-,-,65521,-,-,RP:65118,8
+Computer Science and Design,KKE,"Government Engineering College, Kozhikkode",G,8401,9283,9483,27482,32850,10026,9757,-,-,34281,34033,60199,18379,FW:4959,8
+Computer Science and Design,FIT,"Federal Institute of Science and Technology, Ernakulam",S,12345,14967,16653,18344,19889,23354,16701,-,-,-,62129,-,22753,FW:12609,8
+Computer Science and Design,VJC,"Viswajyothi College of Engineering and Technology, Ernakulam",S,30971,38434,39400,-,-,-,40755,-,-,-,-,-,-,FW:28665,8
+Computer Science and Design,VML,"Vimal Jyothi Engineering College, Kannur",S,44951,48876,48887,-,-,-,-,58929,-,-,-,-,-,FW:35212,8
+Chemical Engineering,KKE,"Government Engineering College, Kozhikkode",G,8328,14121,12350,24460,29621,11858,16836,28193,48612,-,47823,65515,23149,FW:9302,8
+Chemical Engineering,TCR,"Government Engineering College, Thrissur",G,6693,8857,7889,19582,29322,9200,8610,7383,27239,29230,25585,-,14679,"CC:28, FW:3307",9
+Chemical Engineering,TKM,"T K M College of Engineering, Kollam",G,8114,9403,8539,14779,37078,9881,11656,15254,-,-,35756,-,-,"FW:6933, RP:8437",9
+Chemical Engineering,AJC,"Amal Jyothi College of Engineering, Kottayam",S,23534,28848,30936,49439,41072,49263,29551,-,-,-,66572,-,-,FW:17464,9
+Chemical Engineering,MGP,"Saintgits College of Engineering, Kottayam",S,25793,33216,29792,46159,-,-,26787,-,-,-,65072,-,-,FW:18642,9
+Chemical Engineering,MLM,"Mangalam College of Engineering, Kottayam",S,40959,45513,49895,-,-,-,-,-,-,-,64068,-,-,FW:23132,9
+Chemical Engineering,TCE,"TOMS College of Engineering,Kottayam",S,54726,67223,62800,63676,57693,-,54929,-,-,-,-,-,-,,9
+Computer Science & Engineering (Data Science),MAC,"Mar Athanasius College of Engineering, Kothamangalam",G,4569,5721,5244,8683,15047,5366,5429,16292,24971,14132,39416,62398,-,FW:2990,9
+Computer Science & Engineering (Data Science),ADR,"College of Engineering, Adoor",N,21161,23815,23887,39459,49236,23171,24473,-,-,-,62715,-,27573,"FW:14848, MG:39155",9
+Computer Science & Engineering (Data Science),ASI,"Adi Shankara Institute of Engineering and Technology, Ernakulam",S,21512,21989,22755,32785,-,-,21847,-,-,44097,-,-,28083,FW:14666,9
+Computer Science & Engineering (Data Science),BJK,"Bishop Jerome Institute, Kollam",S,47549,62982,50437,57302,-,-,52006,-,-,-,-,-,-,FW:37862,9
+Computer Science & Engineering (Data Science),CCE,"Christ College of Engineering, Thrissur",S,18101,21653,21998,22709,-,-,19379,-,26188,-,65735,-,-,FW:16456,9
+Computer Science & Engineering (Data Science),CEN,"College of Engineering and Technology, Payyanur",S,48561,58084,51000,-,61995,51456,49494,-,-,-,-,-,50780,FW:32797,9
+Computer Science & Engineering (Data Science),ECE,"ICCS College of Engineering and Management, Thrissur",S,66195,-,-,-,-,-,-,-,-,-,-,-,-,FW:55901,9
+Computer Science & Engineering (Data Science),HGW,"Holy Grace Academy of Engineering, Thrissur",S,64891,67209,-,-,-,-,-,-,-,-,-,-,-,,9
+Computer Science & Engineering (Data Science),IES,"I E S College of Engineering, Thrissur",S,58559,59126,59408,-,-,-,-,-,-,-,-,-,-,FW:45086,9
+Computer Science & Engineering (Data Science),JCE,"Jawaharlal College of Engineering and Technology, Palakkad",S,36957,40907,46833,-,-,47600,48917,-,-,-,-,-,58903,,9
+Computer Science & Engineering (Data Science),MBI,"Mar Baselios Institute of Technology and Science, Ernakulam",S,40895,42176,41718,42448,62361,49570,49899,-,-,-,61951,-,-,FW:30235,9
+Computer Science & Engineering (Data Science),SCM,"SCMS School of Engineering and Technology, Ernakulam",S,21217,22787,23160,31217,43589,34462,26685,-,-,-,60546,-,34065,FW:20581,10
+Computer Science & Engineering (Data Science),SNP,"Sree Narayana Institute of Technology, Adoor",S,55876,56240,65753,-,-,-,-,-,-,-,-,-,62981,FW:36396,10
+Computer Science & Engineering (Data Science),STI,"St. Thomas Institute For Science and Technology, Thiruvananthapuram",S,52085,52101,56234,-,-,-,-,-,-,-,65713,-,-,FW:36844,10
+Computer Science & Engineering (Data Science),STM,"St.Thomas College of Engineering and Technology,Kannur",S,49206,50798,56147,-,-,-,50124,-,-,-,-,-,-,FW:43713,10
+Computer Science & Engineering (Data Science),UKP,"UKF College of Engineering and Technology, Kollam",S,58083,60951,65202,-,-,-,59954,-,-,-,-,-,-,FW:35454,10
+Computer Science & Engineering (Data Science),VIT,"VISAT Engineering College, Ernakulam",S,53610,65453,58065,-,-,-,-,-,-,-,-,-,-,FW:45848,10
+Computer Science & Engineering (Data Science),VPE,"Mahaguru Institute of Technology, Mavelikkara, Alappuzha",S,66644,-,-,-,-,-,-,-,-,-,-,-,-,,10
+Computer Science & Engineering,IDK,"Government Engineering College, Idukki",G,-,11219,6633,29541,23021,12047,14241,24234,26829,34431,31854,50438,18851,FW:5834,10
+Computer Science & Engineering,KNR,"Government College of Engineering, Kannur",G,3507,5042,5012,5921,11109,4742,5030,-,9582,-,21985,50027,7227,"FW:1361, PI:4",10
+Computer Science & Engineering,KTE,"Government Rajiv Gandhi Institute of Technology, Kottayam",G,3100,3710,3771,4083,10654,4665,3533,6855,16566,10499,21157,53880,5809,"CC:31, FW:2513",10
+Computer Science & Engineering,MAC,"Mar Athanasius College of Engineering, Kothamangalam",G,2149,2349,2515,3362,7067,4001,2327,5485,7537,-,15188,63785,-,"CC:40, FW:1813",10
+Computer Science & Engineering,NSS,"N S S College of Engineering, Palakkad",G,3545,4682,4659,5464,12516,5821,4461,12124,10242,19760,22576,64387,6553,"FW:2695, XS:3741",10
+Computer Science & Engineering,PKD,"Government Engineering College, Palakkad",G,3115,6345,5390,8831,12550,5871,6248,-,16596,26915,23842,48001,7683,"FW:4666, SD:12001",10
+Computer Science & Engineering,TCR,"Government Engineering College, Thrissur",G,670,1109,907,2064,3970,1161,681,2756,4571,2603,9073,15092,1991,"CC:2, FW:817",10
+Computer Science & Engineering,TKM,"T K M College of Engineering, Kollam",G,1487,2067,1766,2438,5453,2156,1745,4327,4754,8803,12416,65466,-,"CC:4, FW:1199, RP:6097",10
+Computer Science & Engineering,TVE,"College of Engineering, Thiruvananthapuram",G,343,804,686,968,3882,860,662,1927,1288,1479,6410,14647,1629,"CC:1, FW:369",10
+Computer Science & Engineering,WYD,"Government Engineering College, Wayanad",G,-,11851,5734,28086,32361,12208,13287,18364,-,41195,35717,56708,18599,"FW:5155, PT:17",10
+Computer Science & Engineering,ADR,"College of Engineering, Adoor",N,15634,17977,17994,32153,30174,20315,20350,30790,44758,-,57296,-,22918,"FW:12741, MG:29305",11
+Computer Science & Engineering,AEC,"College of Engineering of Aranmula, Pathanamthitta",N,34652,40097,37441,52235,66394,35936,40979,-,-,-,62139,-,57684,FW:25957,11
+Computer Science & Engineering,CEA,"College of Engineering, Attingal",N,23904,26923,25081,43733,50746,30715,28565,27658,39219,51058,57293,-,36610,"FW:14404, MG:38686",11
+Computer Science & Engineering,CEC,"College of Engineering, Cherthala",N,17646,19712,18931,21195,21536,22380,21797,51236,-,37313,37354,-,25191,"FW:13923, MG:31475",11
+Computer Science & Engineering,CEK,"College of Engineering,Kottarakkara, Kollam",N,34560,39268,40694,50122,63621,40502,36058,40869,45385,-,66472,-,49043,"FW:26336, MG:49082",11
+Computer Science & Engineering,CEM,"College of Engineering Muttathara, Thiruvananthapuram",N,24290,26579,27413,31664,35422,28528,26953,-,-,-,44190,67143,31668,FW:11284,11
+Computer Science & Engineering,CHN,"College of Engineering,Chengannoor",N,8240,9835,9626,17551,17319,9756,11191,16028,23121,20661,38625,62164,14005,"FW:6925, MG:13804",11
+Computer Science & Engineering,KGR,"College of Engineering Kidangoor, KOTTAYAM",N,20001,24800,22533,28066,43696,21814,26373,30512,40654,-,55933,67088,23488,"FW:13542, MG:31753",11
+Computer Science & Engineering,KNP,"College of Engineering, Karunagappally, Kollam",N,24659,27017,26059,37223,45653,29040,28019,45406,60499,61025,59277,-,34022,"FW:16312, MG:43511",11
+Computer Science & Engineering,KSD,"LBS College of Engineering, Kasaragod",N,16892,19797,18016,59870,36728,28456,17972,34338,21073,63196,62823,61559,29409,"FW:11473, MG:30692",11
+Computer Science & Engineering,LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,10389,13211,12346,23295,22700,20157,12762,17093,22275,17064,52185,-,18779,"FW:8397, MG:17192",11
+Computer Science & Engineering,MDL,"Model Engineering College, Ernakulam",N,1217,2218,1914,2506,4806,2443,1791,4781,6336,5314,15739,33093,2839,"FW:1410, MG:2374",11
+Computer Science & Engineering,MNR,"College of Engineering, Munnar",N,19334,22210,20162,33506,54708,30359,23181,-,-,-,51991,-,26639,"FW:10929, MG:34249",11
+Computer Science & Engineering,PEC,"College of Engineering Pathanapuram, Kollam",N,30233,32059,31515,35434,58901,36654,32643,-,61502,-,59202,-,41695,FW:19070,11
+Computer Science & Engineering,PJR,"College of Engineering Poonjar, Kottayam",N,32875,36199,34875,45460,60911,35558,42548,39406,-,-,65973,-,46855,"FW:19068, MG:46101",11
+Computer Science & Engineering,PRN,"College of Engineering Perumon, Kollam",N,16119,18531,17907,23824,23545,19363,23889,27159,46374,42009,55550,63282,22543,"FW:10598, MG:25338",11
+Computer Science & Engineering,PRP,College of Engineering and Management Punnnapra,N,39218,42947,40836,51683,58181,41126,48539,53452,54028,54649,66648,-,65760,FW:28082,11
+Computer Science & Engineering,PTA,"College of Engineering, Kallooppara, Thiruvalla",N,24599,26327,29508,54030,47953,27843,29530,29210,-,-,64443,-,32810,"FW:19507, MG:41767",11
+Computer Science & Engineering,SCT,"S C T College of Engineering, Thiruvananthapuram",N,4721,5435,5990,6998,11532,5621,5106,-,20624,20188,27299,-,10716,"FW:4520, MG:7515",11
+Computer Science & Engineering,TKR,"College of Engineering, Trikaripur",N,22020,24876,23123,62487,36282,32744,22299,46490,41991,-,66633,-,35533,"FW:10109, MG:34516",11
+Computer Science & Engineering,TLY,"College of Engineering,Thalassery, Kannur",N,13859,16148,15290,33138,35337,20314,15261,40811,32316,-,50811,51051,28693,"FW:10675, MG:22950",11
+Computer Science & Engineering,UCC,"Institute of Engineering and Technology, Malappuram",N,25067,30759,27555,60474,58464,36992,30573,49801,-,-,67006,-,66123,FW:10911,12
+Computer Science & Engineering,UCE,"University College of Engineering,Thodupuzha",N,31790,37113,33513,54917,65428,35095,33908,-,-,37621,64966,-,51782,FW:20284,12
+Computer Science & Engineering,UCK,"University College of Engineering, Kariavattom, Thiruvananthapuram",N,17132,21225,19802,23926,61258,23526,21490,22010,31705,66016,48546,-,30875,"FW:12694, MG:26844",12
+Computer Science & Engineering,VDA,"College of Engineering, Vadakara",N,17369,20682,18227,39251,38737,20247,19458,-,-,-,51183,-,29227,"FW:11805, MG:26782",12
+Computer Science & Engineering,AAE,"Al-Azhar College of Engineering and Technology, Idukki",S,53102,65133,54539,-,-,-,-,-,-,-,-,-,-,FW:29518,12
+Computer Science & Engineering,AAP,"Al-Ameen Engineering College, Palakkad",S,51651,57566,55835,-,-,-,57582,-,-,-,62915,-,-,FW:35640,12
+Computer Science & Engineering,AIK,"Albertian Institute of Science and Technology, Kochi",S,31112,39161,36241,32231,33217,38481,33007,66378,-,34433,61461,-,-,FW:25773,12
+Computer Science & Engineering,AJC,"Amal Jyothi College of Engineering, Kottayam",S,14422,18900,18982,33319,25690,16230,16626,35047,26983,58838,63211,-,-,FW:10590,12
+Computer Science & Engineering,AME,"Rajadhani Institute of Science and Technology, Palakkad",S,55501,61255,58401,-,-,63154,60581,-,-,-,-,-,-,,12
+Computer Science & Engineering,ASI,"Adi Shankara Institute of Engineering and Technology, Ernakulam",S,18598,22367,21214,29132,27943,21350,21699,50651,31730,33298,64292,-,30865,FW:13977,12
+Computer Science & Engineering,ATP,"Ahalia School of Engineering and Technology, Palakkad",S,42688,47291,44700,61792,-,-,46314,-,47390,-,-,-,48007,FW:28161,12
+Computer Science & Engineering,AWH,"AWH Engineering College, Kozhikkode",S,36991,44241,38281,-,52007,47281,47847,-,50347,-,40579,-,-,FW:20319,12
+Computer Science & Engineering,BJK,"Bishop Jerome Institute, Kollam",S,34819,39804,37286,36360,-,-,37509,-,-,-,64545,-,-,FW:22033,12
+Computer Science & Engineering,BMC,"Baselios Mathews II College of Engineering, Kollam",S,53376,67251,60803,54853,66316,55850,63337,-,-,-,64959,-,-,FW:38557,12
+Computer Science & Engineering,CCE,"Christ College of Engineering, Thrissur",S,13560,14835,16648,25007,20015,18380,14662,38637,16683,43965,59951,-,-,FW:11335,12
+Computer Science & Engineering,CCV,"MGM TECHNOLOGICAL CAMPUS,Valanchery",S,62575,-,65923,-,-,-,-,-,-,-,-,-,-,FW:31345,12
+Computer Science & Engineering,CIM,"Mentor Academy for Design Entrepreneurship Innovation and Technology , Ettapilly, Ernakulam",S,53223,63587,66045,-,-,-,-,-,-,-,-,-,-,,12
+Computer Science & Engineering,CMA,"Carmel College of Engineering and Technology,Alappuzha",S,39667,49851,50205,46337,41835,48152,52552,-,-,-,62384,-,-,FW:26145,12
+Computer Science & Engineering,DMC,"M. Dasan Institute of Technology, Kozhikode",S,42978,51331,45293,-,59560,48019,54759,-,-,-,-,-,49045,FW:28939,13
+Computer Science & Engineering,ECE,"ICCS College of Engineering and Management, Thrissur",S,61203,-,63033,-,-,-,-,-,-,-,-,-,-,,13
+Computer Science & Engineering,EKC,"Eranad Knowledge City Technical Campus, Malappuram",S,49001,64374,50805,-,-,55905,62784,-,-,-,-,-,-,FW:30467,13
+Computer Science & Engineering,FIT,"Federal Institute of Science and Technology, Ernakulam",S,8033,8897,9219,10745,16715,12112,10025,35691,9462,21753,46511,-,16425,FW:7831,13
+Computer Science & Engineering,GIK,"Gregorian Institute of Technology,Kanjirampara,Kottayam",S,66180,-,-,-,-,-,-,-,-,-,67331,-,-,,13
+Computer Science & Engineering,HGW,"Holy Grace Academy of Engineering, Thrissur",S,42914,51301,57772,54158,64682,51433,62437,-,-,-,-,-,63690,FW:31119,13
+Computer Science & Engineering,ICE,"Ilahia College of Engineering and Technology, Ernakulam",S,40041,47254,42542,54706,64575,40771,41725,-,-,-,61274,-,-,FW:29939,13
+Computer Science & Engineering,IES,"I E S College of Engineering, Thrissur",S,42889,45027,46942,-,61468,48432,50973,-,-,-,61112,-,-,FW:31892,13
+Computer Science & Engineering,IGW,"Indira Gandhi Institute of Engineering and Technology, Ernakulam",S,49985,51538,53832,62951,-,51595,60593,52305,-,-,67069,-,-,FW:32955,13
+Computer Science & Engineering,JBT,"Jai Bharath College of Management and Engineering Technology, Ernakulam",S,58921,62909,62988,61185,61865,-,-,-,-,-,63051,-,-,FW:43050,13
+Computer Science & Engineering,JCE,"Jawaharlal College of Engineering and Technology, Palakkad",S,32494,34366,36421,61909,-,48946,37199,-,-,-,67080,-,41735,FW:19169,13
+Computer Science & Engineering,JEC,"Jyothi Engineering College, Thrissur",S,22575,32212,25210,38659,42902,28824,26825,-,61896,-,67172,-,-,FW:14611,13
+Computer Science & Engineering,JIT,"John Cox Memorial C S I Institute of Technology, Thiruvananthapuram",S,52066,57836,56958,58093,-,-,58178,-,-,-,-,-,-,FW:40218,13
+Computer Science & Engineering,KIT,"Kottayam Institute of Technology and Science, Kottayam",S,58603,65832,-,-,-,-,-,-,-,-,-,-,-,FW:44779,13
+Computer Science & Engineering,KMC,"KMCT College of Engineering, Kozhikode",S,26644,29938,27497,-,-,34326,34219,-,-,-,63504,-,-,FW:18636,13
+Computer Science & Engineering,KME,"K M E A Engineering College, Cochin",S,37965,49914,38261,53665,48295,42027,42676,-,-,60612,64805,-,-,FW:21786,13
+Computer Science & Engineering,KMI,"KMCT Institute of Technology and Management,Kuttipuram,Malappuram",S,47431,58740,48802,-,-,64171,63206,-,-,-,47617,-,-,"FW:31293, XS:55664",13
+Computer Science & Engineering,KMT,"KMCT Institute of Emerging Technology and Management, Mukkam, Kozhikode",S,41408,53629,42997,63922,53917,52736,59451,-,-,-,57022,-,46150,FW:30068,13
+Computer Science & Engineering,KMW,"KMCT College of Engineering for Women, Kozhikode",S,39047,52534,40235,48304,-,-,45515,-,-,-,-,-,53509,FW:17272,14
+Computer Science & Engineering,KVE,"KVM College of Engineering and Information Technology, Alappuzha",S,60756,-,-,-,-,-,-,-,-,-,-,-,-,,14
+Computer Science & Engineering,LMC,"Lourdes Matha College of Science and Technology, Thiruvananthapuram",S,46474,60631,57687,49919,-,62685,56048,56404,-,-,66657,64490,-,FW:31412,14
+Computer Science & Engineering,MBC,"Mar Baselios Christian College of Engineering and Technology,Idukki",S,42524,53346,59553,61139,-,50509,50382,49327,-,-,-,-,-,FW:26329,14
+Computer Science & Engineering,MBI,"Mar Baselios Institute of Technology and Science, Ernakulam",S,31663,38285,35976,41283,40792,39281,32081,52493,-,38569,64753,-,-,FW:25864,14
+Computer Science & Engineering,MBT,"Mar Baselios College of Engineering and Technology, Thiruvananthapuram",S,11061,14785,15088,17398,26378,12544,12599,18552,-,44933,50763,-,-,FW:11821,14
+Computer Science & Engineering,MCC,"Musaliar College Of Engineering, Thiruvananthapuram",S,63454,-,66148,64944,-,66483,-,-,-,-,-,-,-,FW:52240,14
+Computer Science & Engineering,MCE,"Marian Engineering College, Thiruvananthapuram",S,26297,31137,31051,28232,-,27365,27886,29050,42039,-,64684,-,-,"FW:20501, RP:41046",14
+Computer Science & Engineering,MCK,"Musaliar College of Engineering and Technology, Pathanamthitta",S,55884,65644,59434,-,-,-,-,-,-,-,62944,-,-,FW:42721,14
+Computer Science & Engineering,MCT,"Mohandas College of Engineering and Technology, Thiruvananthapuram",S,51705,59177,56592,60237,66301,-,52708,-,-,-,-,-,56535,FW:37065,14
+Computer Science & Engineering,MEA,"M E A Engineering College, Vengoor",S,24647,39712,24938,-,-,43498,34167,-,-,-,-,-,-,FW:17412,14
+Computer Science & Engineering,MEC,"Malabar College of Engineering and Technology, Thrissur",S,57783,61132,59493,-,60412,-,59555,-,-,-,-,-,58686,FW:44352,14
+Computer Science & Engineering,MEE,"MES College of Engineering and Technology, Ernakulam",S,38494,51588,42911,-,55517,41376,44762,-,-,-,-,-,-,"FW:26374, XS:55970",14
+Computer Science & Engineering,MEK,"MES Institute of Technology and Management, Kollam",S,51127,58713,52058,59440,-,59052,51582,-,-,-,-,-,66038,FW:30806,14
+Computer Science & Engineering,MES,"M E S College of Engineering, Kuttippuram",S,18222,22951,18862,65412,40891,32348,29332,-,60579,63700,67356,-,-,FW:13259,14
+Computer Science & Engineering,MET,"Mets School of Engineering, Thrissur",S,59272,63793,66848,-,66526,-,-,-,-,-,-,-,-,FW:30482,14
+Computer Science & Engineering,MGC,"M G College of Engineering, Thiruvananthapuram",S,51156,59517,51567,59940,-,59713,62870,-,-,-,-,-,-,XS:52936,14
+Computer Science & Engineering,MGE,"MGM College of Engineering & Technology, Ernakulam",S,60599,61419,66439,-,-,-,-,-,-,-,60742,-,-,,14
+Computer Science & Engineering,MGP,"Saintgits College of Engineering, Kottayam",S,11979,13310,13671,16552,19559,17559,15083,23575,49031,42355,60339,-,-,FW:9646,15
+Computer Science & Engineering,MHP,"ACE College Of Engineering, Thiruvananthapuram",S,44142,49313,46462,58556,-,-,47441,-,-,-,64097,-,-,FW:30234,15
+Computer Science & Engineering,MLM,"Mangalam College of Engineering, Kottayam",S,45220,49431,54041,67045,48487,54755,61687,46533,-,-,64384,-,-,"FW:30745, XS:51990",15
+Computer Science & Engineering,MLT,"Malabar Institute of Technology, Kannur",S,48396,53433,51120,-,-,50950,49966,-,-,-,61259,-,-,,15
+Computer Science & Engineering,MUS,"Muslim Association College of Engineering, Thiruvananthapuram",S,66844,-,-,-,-,-,-,-,-,-,-,-,-,FW:57238,15
+Computer Science & Engineering,MUT,"Muthoot Institute of Technology and Science,Ernakulam",S,5775,7649,8421,8991,14039,6065,7701,36883,20825,18608,26535,22899,10392,FW:6682,15
+Computer Science & Engineering,MZC,"Mount Zion College of Engineering, Pathanamthitta",S,61654,63078,62005,-,-,-,63092,-,-,-,-,-,-,,15
+Computer Science & Engineering,NCE,"Nehru College of Engineering and Research Centre, Thrissur",S,34847,38387,37383,64192,44660,38959,36340,62642,43012,-,64388,-,57876,FW:24085,15
+Computer Science & Engineering,NIE,"Nirmala College of Engineering Technology and Management, Thirissur",S,44249,52773,60815,-,45394,57976,64645,46248,-,-,63997,-,-,FW:37013,15
+Computer Science & Engineering,PAA,"P A Aziz College of Engineering and Technology, Thiruvananthapuram",S,63714,-,-,-,-,-,-,-,-,-,-,-,-,FW:57731,15
+Computer Science & Engineering,PRC,"Providence College of Engineering, Chengannur",S,46510,51518,64430,52729,65125,51403,62491,-,-,-,64042,-,61284,FW:29025,15
+Computer Science & Engineering,RCE,"Royal College of Engineering and Technology, Thrissur",S,50872,58241,51790,-,65405,51286,59223,-,-,-,65843,-,-,FW:33176,15
+Computer Science & Engineering,RET,"Rajagiri School of Engineering and Technology, Ernakulam",S,4254,5883,6532,5259,12238,4588,6832,13831,14681,6325,39264,45521,-,FW:4568,15
+Computer Science & Engineering,RIE,"Rajadhani Institute of Engineering and Technology, Thiruvananthapuram",S,33012,39133,41330,50984,65153,43255,48762,52689,-,-,-,-,49724,FW:20436,15
+Computer Science & Engineering,SBC,"Sree Buddha College of Engineering, Alappuzha",S,41927,48962,51934,-,58402,55004,51040,-,-,-,66814,-,60704,FW:31131,15
+Computer Science & Engineering,SCM,"SCMS School of Engineering and Technology, Ernakulam",S,17377,20358,20195,24337,32100,22607,20984,45231,29169,20403,65322,-,31767,FW:14395,15
+Computer Science & Engineering,SHR,"Sahrdaya College of Engineering and Technology, Thrissur",S,25287,32052,26907,43082,37889,34888,31736,-,42113,61730,63103,-,-,FW:18964,15
+Computer Science & Engineering,SIT,"Sarabhai Institute of Science and Technology, Thiruvananthapuram",S,57632,64752,63861,61125,-,-,-,-,-,-,67359,-,-,,16
+Computer Science & Engineering,SJC,"St Josephs College of Engineering and Technology, Palai",S,18533,22133,23374,29557,40955,20016,22029,18763,44428,-,64263,-,-,FW:17999,16
+Computer Science & Engineering,SNC,"Sree Narayana Guru College of Engineering and Technology, Kannur",S,39790,43858,43887,62038,53990,46602,41494,-,40064,-,64557,-,61439,FW:31827,16
+Computer Science & Engineering,SNG,"Sree Narayana Gurukulam College of Engineering, Ernakulam",S,37306,41701,42023,46906,59693,38903,40623,49856,-,-,67243,-,61603,FW:27282,16
+Computer Science & Engineering,SNM,"SNM Institute of Management and Technology, Ernakulam",S,50193,52764,61407,52895,54065,51027,-,-,-,-,-,-,-,FW:32638,16
+Computer Science & Engineering,SNP,"Sree Narayana Institute of Technology, Adoor",S,58332,60591,65756,-,-,59247,62249,-,-,-,-,-,-,,16
+Computer Science & Engineering,SPT,"Sreepathy Institute of Management and Technology, Palakkad",S,49368,63825,58224,-,-,63654,50698,-,-,-,66870,-,65252,FW:32180,16
+Computer Science & Engineering,STC,"St Thomas Colllege of Engineering and Technology, Alappuzha",S,51830,58530,67450,-,-,58259,65989,-,-,-,65053,-,-,FW:34945,16
+Computer Science & Engineering,STI,"St. Thomas Institute For Science and Technology, Thiruvananthapuram",S,49626,59539,56225,52604,-,52523,51157,52531,-,-,66759,-,-,FW:31314,16
+Computer Science & Engineering,STM,"St.Thomas College of Engineering and Technology,Kannur",S,37265,43421,39453,-,-,52968,38536,-,-,-,-,-,65494,FW:24859,16
+Computer Science & Engineering,TCE,"TOMS College of Engineering,Kottayam",S,62214,66496,-,-,-,62961,67107,-,-,-,66206,-,-,FW:37029,16
+Computer Science & Engineering,TEC,"Travancore Engineering College, Kollam",S,66325,-,-,-,-,-,-,-,-,-,-,-,-,,16
+Computer Science & Engineering,TJE,"Thejus Engineering College, Thrissur",S,44537,50512,50116,-,47991,49238,52691,64337,-,-,64434,-,53344,FW:34030,16
+Computer Science & Engineering,TKI,"T K M Institute of Technology, Kollam",S,24300,26595,25963,49004,38515,46536,29333,-,52150,56137,66428,-,-,FW:16838,16
+Computer Science & Engineering,TOC,"Toc H Institute of Science and Technology, Ernakulam",S,21787,25955,25661,25431,28798,26626,23455,54652,42974,29385,66244,-,40248,FW:18724,16
+Computer Science & Engineering,UKP,"UKF College of Engineering and Technology, Kollam",S,50066,64708,51658,66028,-,51553,57538,-,-,-,67185,-,62460,FW:29746,16
+Computer Science & Engineering,UNT,"Universal Engineering College, Thrissur",S,50946,57711,52757,57065,58511,57603,65499,-,-,-,63620,-,63885,FW:32440,16
+Computer Science & Engineering,VAK,"Vidya Academy of Science and Technology, Thiruvananthapuram",S,48983,60475,53525,-,-,52549,60169,66733,-,-,65431,-,59867,FW:26797,16
+Computer Science & Engineering,VAS,"Vidya Academy of Science and Technology, Thrissur",S,26682,32355,28950,-,40830,29436,33168,-,50381,-,66919,-,42386,FW:17099,17
+Computer Science & Engineering,VIT,"VISAT Engineering College, Ernakulam",S,41984,51145,49693,50312,55661,43045,42320,-,-,-,66253,-,57986,,17
+Computer Science & Engineering,VJC,"Viswajyothi College of Engineering and Technology, Ernakulam",S,20451,25385,21817,30534,24924,20895,23486,33157,54115,-,62851,-,-,FW:14838,17
+Computer Science & Engineering,VKE,"Valia Koonambaikulathamma College of Engineering and Technology, Parippally",S,54224,60886,56132,-,-,55442,56903,-,-,-,62623,-,65032,FW:40499,17
+Computer Science & Engineering,VML,"Vimal Jyothi Engineering College, Kannur",S,30109,34939,36291,-,-,43558,32666,57734,45880,-,64203,-,-,FW:20710,17
+Computer Science & Engineering,VPE,"Mahaguru Institute of Technology, Mavelikkara, Alappuzha",S,66157,-,66869,-,-,-,-,-,-,-,66838,-,-,FW:48234,17
+Computer Science & Engineering,VVT,"Veda Vyasa Institute of Technology, Malappuram.",S,53644,57943,58795,-,-,-,55130,-,-,-,-,-,-,,17
+Computer Science & Engineering,YCE,"Younus College of Engineering and Technology, Kollam",S,49714,62523,50482,59218,58474,49905,65744,-,-,-,-,-,-,FW:29835,17
+Computer Science & Engineering (Artificial Intelligence),TKM,"T K M College of Engineering, Kollam",G,2205,2632,2318,4734,10726,3614,2276,-,-,-,18663,52634,-,FW:1144,17
+Computer Science & Engineering (Artificial Intelligence),ASI,"Adi Shankara Institute of Engineering and Technology, Ernakulam",S,20152,22892,21317,20579,24884,-,20609,65896,25733,24952,59077,-,26088,FW:16559,17
+Computer Science & Engineering (Artificial Intelligence),BJK,"Bishop Jerome Institute, Kollam",S,35187,55852,40112,-,-,-,-,-,-,-,62254,-,-,FW:32542,17
+Computer Science & Engineering (Artificial Intelligence),LMC,"Lourdes Matha College of Science and Technology, Thiruvananthapuram",S,51720,53892,58777,-,-,-,-,-,-,-,63297,-,-,FW:36960,17
+Computer Science & Engineering (Artificial Intelligence),MBC,"Mar Baselios Christian College of Engineering and Technology,Idukki",S,47559,56438,53280,64330,-,-,56661,-,-,-,66382,-,-,FW:32919,17
+Computer Science & Engineering (Artificial Intelligence),MBT,"Mar Baselios College of Engineering and Technology, Thiruvananthapuram",S,13034,15702,18494,20089,37075,20252,13887,-,-,-,48199,-,-,FW:13688,17
+Computer Science & Engineering (Artificial Intelligence),MEK,"MES Institute of Technology and Management, Kollam",S,39187,55999,41233,-,-,-,54034,-,-,-,-,-,57054,FW:31734,17
+Computer Science & Engineering (Artificial Intelligence),MLT,"Malabar Institute of Technology, Kannur",S,54937,63244,60265,-,-,-,57657,-,-,-,67295,-,-,,17
+Computer Science & Engineering (Artificial Intelligence),MUT,"Muthoot Institute of Technology and Science,Ernakulam",S,8521,10000,9335,14208,-,16105,9084,-,-,-,57228,-,18584,FW:8673,18
+Computer Science & Engineering (Artificial Intelligence),PRC,"Providence College of Engineering, Chengannur",S,46520,64432,60422,-,-,53301,63914,-,-,-,53698,-,53481,FW:22488,18
+Computer Science & Engineering (Artificial Intelligence),SCM,"SCMS School of Engineering and Technology, Ernakulam",S,18502,21493,20753,30404,26889,29456,24409,-,-,-,65685,-,27429,FW:16287,18
+Computer Science & Engineering (Artificial Intelligence),SJC,"St Josephs College of Engineering and Technology, Palai",S,20665,24035,24038,29643,-,30813,22065,-,-,-,-,-,-,FW:14856,18
+Computer Science & Engineering (Artificial Intelligence),SNM,"SNM Institute of Management and Technology, Ernakulam",S,37638,42933,45168,-,-,-,-,-,-,52283,59201,-,-,FW:33125,18
+Computer Science & Engineering (Artificial Intelligence),TKI,"T K M Institute of Technology, Kollam",S,22019,29080,24778,22096,61175,-,24273,35518,-,-,57491,-,-,FW:12948,18
+Civil and Environmental Engineering,WYD,"Government Engineering College, Wayanad",G,19674,22736,21540,-,-,23028,19734,-,-,-,56075,-,46967,FW:16655,18
+Civil and Environmental Engineering,HGW,"Holy Grace Academy of Engineering, Thrissur",S,60842,-,-,-,-,-,-,-,-,-,-,-,-,,18
+Dairy Technology,CDI,"College of Dairy Science & Technology, Kolahalamedu, Idukki",G,21924,27866,24680,40975,65740,40325,25821,-,-,-,58758,-,61053,,18
+Dairy Technology,CDP,"College of Dairy Science and Technology, Pookode",G,21707,24666,23849,48891,-,-,23721,-,-,-,57419,-,41622,,18
+Dairy Technology,CDT,"Verghese Kurien Institue of Dairy & Food Technology, Mannuthy, Thrissur",G,15954,19705,18109,48057,-,-,21828,52843,-,50566,47913,57607,39359,PT:31,18
+Dairy Technology,CDV,"College of Dairy Science and Technology, Thiruvananthapuram",G,17861,20305,19644,-,-,18419,22387,-,-,-,44768,53979,53571,,18
+Electronics & Communication,IDK,"Government Engineering College, Idukki",G,-,16183,10873,32434,29509,19261,15389,31153,41131,-,51795,56746,33806,"CC:44, FW:9133, PT:15",19
+Electronics & Communication,KKE,"Government Engineering College, Kozhikkode",G,4847,9093,7427,16363,17074,8768,9131,16652,22152,46717,32017,66839,11365,FW:5484,19
+Electronics & Communication,KNR,"Government College of Engineering, Kannur",G,4703,7056,7023,16699,14298,6657,6751,14295,17724,29620,37662,-,10279,"CC:42, FW:4853",19
+Electronics & Communication,KTE,"Government Rajiv Gandhi Institute of Technology, Kottayam",G,3961,4389,4385,8054,9218,5034,4260,-,19912,12660,25422,66768,5967,"CC:14, FW:3720, SD:7319",19
+Electronics & Communication,MAC,"Mar Athanasius College of Engineering, Kothamangalam",G,3346,3691,3693,8179,13827,3493,3564,12042,18065,12168,29844,-,-,"CC:18, FW:2915, PI:12",19
+Electronics & Communication,NSS,"N S S College of Engineering, Palakkad",G,4827,5324,5258,9904,14868,4858,5154,8809,15941,24331,31284,67141,8295,"CC:19, FW:4430, PI:15",19
+Electronics & Communication,PKD,"Government Engineering College, Palakkad",G,4608,7754,7629,17096,21361,6472,7747,15362,-,49782,33877,-,10260,"CC:27, FW:5280, PT:12",19
+Electronics & Communication,TCR,"Government Engineering College, Thrissur",G,1420,2137,1777,4211,3982,2561,1881,2295,3178,3280,13989,48779,3591,"FW:1240, PT:7",19
+Electronics & Communication,TKM,"T K M College of Engineering, Kollam",G,2199,2448,2447,4141,6518,2607,2558,5306,3632,14895,17228,60927,-,"FW:1590, PT:8",19
+Electronics & Communication,TRV,"Government Engineering College Barton Hill, Thiruvananthapuram",G,3385,4307,4273,9323,13758,4714,4193,3617,4004,-,18416,-,7005,"CC:9, FW:3238",19
+Electronics & Communication,TVE,"College of Engineering, Thiruvananthapuram",G,598,891,873,1187,3941,1048,813,2090,1427,3247,8710,23508,2175,FW:496,19
+Electronics & Communication,WYD,"Government Engineering College, Wayanad",G,-,16284,10269,61615,61051,18943,17527,36775,56494,-,53505,-,35931,"FW:9599, SD:38801",19
+Electronics & Communication,ADR,"College of Engineering, Adoor",N,21158,22689,22757,22690,39689,29577,21212,-,59800,-,67485,-,34004,"FW:14086, MG:30778",19
+Electronics & Communication,CEA,"College of Engineering, Attingal",N,28630,32841,30772,58151,-,35807,29506,-,-,-,66328,-,40784,"FW:17594, MG:43709",19
+Electronics & Communication,CEC,"College of Engineering, Cherthala",N,22976,25556,24184,26781,48717,29659,23341,47382,-,40069,65791,-,50994,"FW:17170, MG:33053",19
+Electronics & Communication,CEM,"College of Engineering Muttathara, Thiruvananthapuram",N,29225,33510,35168,59375,55696,37960,40715,36177,-,-,66958,-,46670,FW:19955,19
+Electronics & Communication,CHN,"College of Engineering,Chengannoor",N,10378,11297,11411,16859,30187,12017,11827,12944,48159,40243,50663,-,15467,"FW:9061, MG:18108",19
+Electronics & Communication,KGR,"College of Engineering Kidangoor, KOTTAYAM",N,28198,31698,31560,45765,-,28740,29730,56385,-,-,66948,-,43917,FW:18541,19
+Electronics & Communication,KNP,"College of Engineering, Karunagappally, Kollam",N,27730,31346,31263,60510,-,-,39140,-,-,-,67489,-,42556,MG:40376,19
+Electronics & Communication,KSD,"LBS College of Engineering, Kasaragod",N,16325,20423,18182,-,39253,-,20548,-,-,-,55019,-,37757,"FW:14084, MG:33035",19
+Electronics & Communication,LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,10783,12439,11379,15469,-,17443,12690,-,-,-,52500,-,21424,"FW:8907, MG:17212",20
+Electronics & Communication,MDL,"Model Engineering College, Ernakulam",N,1994,2507,2685,4616,9741,3160,2922,4438,11632,3290,20223,59028,4745,"FW:2677, MG:3463",20
+Electronics & Communication,MNR,"College of Engineering, Munnar",N,28246,30105,32140,56336,65888,42266,34235,-,-,-,66785,-,42156,FW:11684,20
+Electronics & Communication,PJR,"College of Engineering Poonjar, Kottayam",N,38040,40491,39248,66716,-,45492,52005,-,-,-,67077,-,56797,MG:49160,20
+Electronics & Communication,PRN,"College of Engineering Perumon, Kollam",N,24933,29337,26558,38099,-,28603,28884,27376,-,59960,67035,-,32799,FW:17685,20
+Electronics & Communication,PRP,College of Engineering and Management Punnnapra,N,47503,50625,51307,61817,-,52720,52882,56935,-,-,-,-,63824,,20
+Electronics & Communication,PTA,"College of Engineering, Kallooppara, Thiruvalla",N,33553,37682,39576,63449,-,39523,33918,-,-,-,67007,-,44957,"FW:21856, MG:44341",20
+Electronics & Communication,SCT,"S C T College of Engineering, Thiruvananthapuram",N,6871,8439,8026,16128,14334,7899,9816,11176,30998,-,35882,-,12076,"FW:5968, MG:11086",20
+Electronics & Communication,TKR,"College of Engineering, Trikaripur",N,27545,29481,30641,-,-,31230,28118,60858,-,-,-,-,44218,FW:12012,20
+Electronics & Communication,TLY,"College of Engineering,Thalassery, Kannur",N,20742,23044,22144,60694,38693,25659,23769,60629,-,-,66545,-,40305,FW:15642,20
+Electronics & Communication,UCC,"Institute of Engineering and Technology, Malappuram",N,33688,34782,36292,-,-,-,48185,-,-,-,40704,-,65501,FW:23304,20
+Electronics & Communication,UCE,"University College of Engineering,Thodupuzha",N,46685,55582,51898,-,61898,60641,53271,-,-,-,-,-,54301,,20
+Electronics & Communication,UCK,"University College of Engineering, Kariavattom, Thiruvananthapuram",N,21685,26512,27236,36764,53204,25180,26365,-,-,-,63838,-,36862,"FW:14335, MG:30750",20
+Electronics & Communication,VDA,"College of Engineering, Vadakara",N,25203,26909,26473,40902,60554,28191,29179,56631,-,-,66624,-,42991,FW:14877,20
+Electronics & Communication,AAE,"Al-Azhar College of Engineering and Technology, Idukki",S,66001,-,-,-,-,-,-,-,-,-,-,-,-,,20
+Electronics & Communication,AAP,"Al-Ameen Engineering College, Palakkad",S,55893,-,60286,-,-,-,-,59733,-,-,-,-,-,,20
+Electronics & Communication,AIK,"Albertian Institute of Science and Technology, Kochi",S,32789,42900,35174,35443,61251,-,35773,-,-,-,64893,-,-,FW:28388,20
+Electronics & Communication,AJC,"Amal Jyothi College of Engineering, Kottayam",S,21563,23305,27858,29412,31620,30253,22774,32558,-,62282,-,-,-,FW:15670,20
+Electronics & Communication,AME,"Rajadhani Institute of Science and Technology, Palakkad",S,60966,-,-,-,-,-,-,-,-,-,-,-,-,,20
+Electronics & Communication,ASI,"Adi Shankara Institute of Engineering and Technology, Ernakulam",S,21580,23231,24164,26532,27572,27058,27484,34103,57615,58486,67277,-,40645,FW:16828,20
+Electronics & Communication,ATP,"Ahalia School of Engineering and Technology, Palakkad",S,44499,54347,50431,-,-,-,53492,-,-,-,-,-,-,FW:24819,21
+Electronics & Communication,AWH,"AWH Engineering College, Kozhikkode",S,40776,46007,41922,-,-,-,-,-,-,-,-,-,-,FW:28738,21
+Electronics & Communication,BJK,"Bishop Jerome Institute, Kollam",S,43112,53711,55162,-,-,-,-,-,-,-,-,-,-,FW:41688,21
+Electronics & Communication,BMC,"Baselios Mathews II College of Engineering, Kollam",S,60768,-,63506,64883,-,-,-,62655,-,-,-,-,-,,21
+Electronics & Communication,CCE,"Christ College of Engineering, Thrissur",S,13566,15512,19450,24565,-,20878,20664,-,-,-,67297,-,-,FW:12956,21
+Electronics & Communication,CCV,"MGM TECHNOLOGICAL CAMPUS,Valanchery",S,64157,-,-,-,-,-,-,-,-,-,-,-,-,,21
+Electronics & Communication,CEN,"College of Engineering and Technology, Payyanur",S,43429,59051,54675,-,-,-,47182,-,-,-,-,-,-,,21
+Electronics & Communication,DMC,"M. Dasan Institute of Technology, Kozhikode",S,62261,64725,63472,-,-,-,-,-,-,-,-,-,64367,FW:34532,21
+Electronics & Communication,EKC,"Eranad Knowledge City Technical Campus, Malappuram",S,66386,-,-,-,-,-,-,-,-,-,-,-,-,,21
+Electronics & Communication,FIT,"Federal Institute of Science and Technology, Ernakulam",S,10107,11594,11068,20265,18641,13291,10527,29772,22814,40569,64240,-,19075,FW:9361,21
+Electronics & Communication,HGW,"Holy Grace Academy of Engineering, Thrissur",S,59868,-,-,-,-,-,-,-,-,-,-,-,-,,21
+Electronics & Communication,ICE,"Ilahia College of Engineering and Technology, Ernakulam",S,43262,61541,43473,-,-,-,61579,-,-,-,-,-,-,FW:32918,21
+Electronics & Communication,IES,"I E S College of Engineering, Thrissur",S,49087,52353,55800,-,-,-,-,-,-,-,-,-,-,FW:36210,21
+Electronics & Communication,IGW,"Indira Gandhi Institute of Engineering and Technology, Ernakulam",S,54121,54732,57477,-,-,-,-,-,-,-,-,-,-,,21
+Electronics & Communication,JBT,"Jai Bharath College of Management and Engineering Technology, Ernakulam",S,59246,-,-,-,-,-,-,-,-,-,-,-,-,,21
+Electronics & Communication,JCE,"Jawaharlal College of Engineering and Technology, Palakkad",S,44556,47815,48319,-,-,50296,45509,-,-,-,-,-,51361,FW:21779,21
+Electronics & Communication,JEC,"Jyothi Engineering College, Thrissur",S,21591,24140,25913,52609,64281,-,25340,-,-,-,62562,-,-,FW:14085,21
+Electronics & Communication,JIT,"John Cox Memorial C S I Institute of Technology, Thiruvananthapuram",S,66459,-,-,-,-,-,-,-,-,-,-,-,-,,21
+Electronics & Communication,KIT,"Kottayam Institute of Technology and Science, Kottayam",S,57131,-,-,-,-,-,-,-,-,-,-,-,-,,22
+Electronics & Communication,KMC,"KMCT College of Engineering, Kozhikode",S,40616,46893,41876,-,-,43536,50611,-,-,-,-,-,-,,22
+Electronics & Communication,KME,"K M E A Engineering College, Cochin",S,44176,61577,44515,52453,-,-,64248,-,-,-,-,-,-,FW:38817,22
+Electronics & Communication,KMI,"KMCT Institute of Technology and Management,Kuttipuram,Malappuram",S,56012,64271,56885,-,-,-,62393,-,-,-,-,-,-,,22
+Electronics & Communication,KMT,"KMCT Institute of Emerging Technology and Management, Mukkam, Kozhikode",S,49337,56278,50238,-,-,-,-,-,-,-,-,-,56968,,22
+Electronics & Communication,LMC,"Lourdes Matha College of Science and Technology, Thiruvananthapuram",S,52287,-,65465,-,52785,-,-,-,-,-,-,-,-,,22
+Electronics & Communication,MBC,"Mar Baselios Christian College of Engineering and Technology,Idukki",S,55039,62250,-,65530,-,-,63108,-,-,-,60180,-,-,,22
+Electronics & Communication,MBI,"Mar Baselios Institute of Technology and Science, Ernakulam",S,28042,29614,37643,-,65591,-,32898,-,-,-,53211,-,-,FW:24344,22
+Electronics & Communication,MBT,"Mar Baselios College of Engineering and Technology, Thiruvananthapuram",S,15250,16660,19148,21566,37357,18483,15860,22915,38923,-,67351,-,-,FW:14058,22
+Electronics & Communication,MCE,"Marian Engineering College, Thiruvananthapuram",S,28931,34104,34150,29062,-,31082,37261,-,-,-,-,-,-,FW:18666,22
+Electronics & Communication,MCK,"Musaliar College of Engineering and Technology, Pathanamthitta",S,59005,-,-,-,-,-,-,-,-,-,-,-,-,,22
+Electronics & Communication,MCT,"Mohandas College of Engineering and Technology, Thiruvananthapuram",S,47888,58504,49978,63167,-,-,53801,-,-,-,-,-,53395,,22
+Electronics & Communication,MEE,"MES College of Engineering and Technology, Ernakulam",S,49795,65203,53360,50864,-,-,-,-,-,-,62759,-,-,FW:13349,22
+Electronics & Communication,MEK,"MES Institute of Technology and Management, Kollam",S,45351,51459,54953,-,-,-,-,-,-,-,-,-,-,,22
+Electronics & Communication,MES,"M E S College of Engineering, Kuttippuram",S,24433,28813,24767,-,-,32197,31502,-,-,-,63361,-,-,FW:17717,22
+Electronics & Communication,MGC,"M G College of Engineering, Thiruvananthapuram",S,60862,64870,63264,-,-,-,-,-,-,-,-,-,-,,22
+Electronics & Communication,MGE,"MGM College of Engineering & Technology, Ernakulam",S,53795,-,-,-,-,-,-,-,-,-,-,-,-,,22
+Electronics & Communication,MGP,"Saintgits College of Engineering, Kottayam",S,13094,16088,16309,25893,27147,21508,13849,-,-,-,65344,-,-,FW:13593,22
+Electronics & Communication,MHP,"ACE College Of Engineering, Thiruvananthapuram",S,54736,56529,55980,-,-,63316,62082,-,-,-,-,-,-,FW:45843,23
+Electronics & Communication,MLM,"Mangalam College of Engineering, Kottayam",S,63006,66662,65598,-,-,-,66347,-,-,-,-,-,-,FW:42197,23
+Electronics & Communication,MLT,"Malabar Institute of Technology, Kannur",S,19387,23679,39931,-,-,-,-,-,-,-,-,-,-,,23
+Electronics & Communication,MUS,"Muslim Association College of Engineering, Thiruvananthapuram",S,54322,-,-,-,-,-,-,-,-,-,-,-,-,FW:53919,23
+Electronics & Communication,MUT,"Muthoot Institute of Technology and Science,Ernakulam",S,7816,8950,8323,13749,26887,10042,10049,-,-,-,57936,-,14124,FW:7852,23
+Electronics & Communication,MZC,"Mount Zion College of Engineering, Pathanamthitta",S,61532,-,-,-,-,-,-,-,-,-,-,-,-,,23
+Electronics & Communication,NCE,"Nehru College of Engineering and Research Centre, Thrissur",S,37494,45606,43063,-,57101,-,40675,-,-,-,63073,-,56472,,23
+Electronics & Communication,PAA,"P A Aziz College of Engineering and Technology, Thiruvananthapuram",S,66704,-,-,-,-,-,-,-,-,-,-,-,-,,23
+Electronics & Communication,PRC,"Providence College of Engineering, Chengannur",S,50726,50870,-,-,-,-,-,-,-,-,-,-,59897,FW:37944,23
+Electronics & Communication,RCE,"Royal College of Engineering and Technology, Thrissur",S,53695,60788,-,-,-,-,-,-,-,-,-,-,-,,23
+Electronics & Communication,RET,"Rajagiri School of Engineering and Technology, Ernakulam",S,7356,8990,8853,12892,10912,9503,8457,29127,20311,18975,44792,-,-,"FW:7205, XS:7822",23
+Electronics & Communication,RIE,"Rajadhani Institute of Engineering and Technology, Thiruvananthapuram",S,34897,42474,36088,63585,-,-,51729,-,-,-,61747,-,54688,FW:16378,23
+Electronics & Communication,SBC,"Sree Buddha College of Engineering, Alappuzha",S,47331,60854,49068,52455,-,-,59027,-,-,-,-,-,48323,FW:37368,23
+Electronics & Communication,SCM,"SCMS School of Engineering and Technology, Ernakulam",S,18363,21586,19120,19695,32720,23968,21940,-,-,-,-,-,32634,FW:12730,23
+Electronics & Communication,SHR,"Sahrdaya College of Engineering and Technology, Thrissur",S,26164,27527,30238,38219,-,-,31844,-,-,-,57127,-,-,RP:33356,23
+Electronics & Communication,SIT,"Sarabhai Institute of Science and Technology, Thiruvananthapuram",S,66758,-,-,-,-,-,-,-,-,-,-,-,-,,23
+Electronics & Communication,SJC,"St Josephs College of Engineering and Technology, Palai",S,22692,23909,29848,-,63837,32846,23010,-,-,-,-,-,-,FW:17648,23
+Electronics & Communication,SNC,"Sree Narayana Guru College of Engineering and Technology, Kannur",S,49081,50214,51644,-,-,-,49500,-,50983,-,-,-,66172,FW:29574,24
+Electronics & Communication,SNG,"Sree Narayana Gurukulam College of Engineering, Ernakulam",S,47216,51357,52813,47585,67184,53535,51086,-,-,-,-,-,51773,FW:33181,24
+Electronics & Communication,SNM,"SNM Institute of Management and Technology, Ernakulam",S,64479,-,66308,-,-,-,-,-,-,-,-,-,-,,24
+Electronics & Communication,SNP,"Sree Narayana Institute of Technology, Adoor",S,64767,65223,-,-,-,-,-,-,-,-,-,-,-,,24
+Electronics & Communication,SPT,"Sreepathy Institute of Management and Technology, Palakkad",S,47025,-,51650,-,-,-,-,-,-,-,-,-,55963,FW:27978,24
+Electronics & Communication,STC,"St Thomas Colllege of Engineering and Technology, Alappuzha",S,63656,-,-,-,-,-,-,-,-,-,-,-,-,FW:33612,24
+Electronics & Communication,STI,"St. Thomas Institute For Science and Technology, Thiruvananthapuram",S,46057,47141,62652,58728,-,-,63232,-,-,-,-,-,-,FW:37293,24
+Electronics & Communication,STM,"St.Thomas College of Engineering and Technology,Kannur",S,52781,56705,52841,-,-,-,53138,-,-,-,-,-,57646,FW:43436,24
+Electronics & Communication,TCE,"TOMS College of Engineering,Kottayam",S,66309,-,-,-,-,-,-,-,-,-,-,-,-,,24
+Electronics & Communication,TCT,"Trinity College of Engineering, Thiruvananthapuram",S,65698,-,-,66379,-,-,-,-,-,-,-,-,-,FW:40783,24
+Electronics & Communication,TOC,"Toc H Institute of Science and Technology, Ernakulam",S,25145,28846,26136,26322,41859,43210,29301,-,-,-,64946,-,32377,FW:22671,24
+Electronics & Communication,UKP,"UKF College of Engineering and Technology, Kollam",S,53311,56817,60800,59411,-,-,54330,-,-,-,-,-,-,FW:22821,24
+Electronics & Communication,UNT,"Universal Engineering College, Thrissur",S,56474,58716,59564,-,-,-,-,-,-,-,-,-,62401,FW:35098,24
+Electronics & Communication,VAK,"Vidya Academy of Science and Technology, Thiruvananthapuram",S,47633,60616,64809,-,-,-,-,-,-,-,-,-,60627,,24
+Electronics & Communication,VAS,"Vidya Academy of Science and Technology, Thrissur",S,27859,33195,30763,-,-,-,33324,-,-,-,65346,-,41990,FW:17906,24
+Electronics & Communication,VIT,"VISAT Engineering College, Ernakulam",S,63634,-,66350,-,-,-,-,-,-,-,-,-,-,,24
+Electronics & Communication,VJC,"Viswajyothi College of Engineering and Technology, Ernakulam",S,28253,31861,30846,35609,60289,32895,-,-,-,-,-,63771,-,FW:21957,24
+Electronics & Communication,VKE,"Valia Koonambaikulathamma College of Engineering and Technology, Parippally",S,64943,-,-,-,-,-,-,-,-,-,-,-,-,,24
+Electronics & Communication,VML,"Vimal Jyothi Engineering College, Kannur",S,28444,37205,35869,-,-,45096,29802,-,-,-,-,-,-,FW:13107,25
+Electronics & Communication,VVT,"Veda Vyasa Institute of Technology, Malappuram.",S,59976,-,-,-,-,-,-,-,-,-,-,-,-,,25
+Electronics & Communication,YCE,"Younus College of Engineering and Technology, Kollam",S,56295,65352,57139,-,-,-,-,-,-,-,-,-,-,FW:28080,25
+Electrical & Electronics,IDK,"Government Engineering College, Idukki",G,-,18948,12794,57089,54858,20058,21248,50040,20156,-,56257,-,52300,FW:11740,25
+Electrical & Electronics,KNR,"Government College of Engineering, Kannur",G,6393,9611,9657,17076,28468,10130,9268,45775,40529,50525,44115,62817,14155,"FW:7345, SD:18926",25
+Electrical & Electronics,KTE,"Government Rajiv Gandhi Institute of Technology, Kottayam",G,6516,7452,7090,15851,19963,7598,7131,14176,-,48126,37154,61226,10732,"FW:5207, PT:27",25
+Electrical & Electronics,MAC,"Mar Athanasius College of Engineering, Kothamangalam",G,6178,6740,6977,13095,19961,7814,6897,16190,25298,42910,44291,29421,-,"FW:5070, XS:7202",25
+Electrical & Electronics,NSS,"N S S College of Engineering, Palakkad",G,7042,8793,8838,20712,36700,8706,8627,19655,29291,56814,43562,27530,12543,"FW:6586, PI:13",25
+Electrical & Electronics,PKD,"Government Engineering College, Palakkad",G,6768,11012,10744,23665,25069,11057,10701,43656,35695,-,44810,-,17492,FW:7194,25
+Electrical & Electronics,TCR,"Government Engineering College, Thrissur",G,2962,3322,3271,6874,13390,4106,4017,12503,9165,31674,21079,66054,6763,FW:2375,25
+Electrical & Electronics,TKM,"T K M College of Engineering, Kollam",G,3853,4651,4412,10487,16732,4751,4579,11747,21763,39287,26513,61974,-,"FW:3155, RP:7317, SD:7237",25
+Electrical & Electronics,TRV,"Government Engineering College Barton Hill, Thiruvananthapuram",G,6490,6901,7371,10516,20747,9396,7279,-,33090,53470,35851,-,10751,FW:4664,25
+Electrical & Electronics,TVE,"College of Engineering, Thiruvananthapuram",G,1386,2162,1821,3419,5399,1497,1848,2103,1662,18241,12735,51578,3874,"FW:1162, PT:3, SD:2689, XS:1845",25
+Electrical & Electronics,WYD,"Government Engineering College, Wayanad",G,-,19679,12639,52883,-,21240,22169,59228,47729,-,55374,66735,51262,FW:11310,25
+Electrical & Electronics,ADR,"College of Engineering, Adoor",N,33998,38096,36315,42573,60653,38107,35156,52401,-,-,67337,-,56290,MG:43024,25
+Electrical & Electronics,CEA,"College of Engineering, Attingal",N,43080,44867,55988,47898,-,47304,48967,-,-,-,65775,-,59355,MG:59210,25
+Electrical & Electronics,CEC,"College of Engineering, Cherthala",N,28955,31646,33420,31915,-,-,33800,-,-,-,65475,-,49360,"FW:20417, MG:38944",25
+Electrical & Electronics,CEM,"College of Engineering Muttathara, Thiruvananthapuram",N,42771,45285,52219,50281,66952,48733,45684,-,-,63812,67041,-,61777,,25
+Electrical & Electronics,CHN,"College of Engineering,Chengannoor",N,14272,18580,15089,25765,36399,14823,14660,-,-,-,57973,-,19995,"FW:12890, MG:23287",26
+Electrical & Electronics,KGR,"College of Engineering Kidangoor, KOTTAYAM",N,39244,43846,44211,-,-,42523,43899,-,-,-,65889,-,61863,FW:23019,26
+Electrical & Electronics,KSD,"LBS College of Engineering, Kasaragod",N,30342,37224,32010,-,38516,39176,31721,-,-,-,66879,64721,51160,"FW:20922, MG:43184",26
+Electrical & Electronics,MDL,"Model Engineering College, Ernakulam",N,4813,4978,4950,12349,13548,5065,5374,-,-,-,25870,-,13137,"FW:4596, MG:6613",26
+Electrical & Electronics,MNR,"College of Engineering, Munnar",N,38994,48754,50383,-,-,-,56979,-,-,-,66484,-,-,FW:22908,26
+Electrical & Electronics,PRN,"College of Engineering Perumon, Kollam",N,29725,34700,31688,29922,48066,30333,30564,-,-,-,66549,-,41602,FW:21453,26
+Electrical & Electronics,PRP,College of Engineering and Management Punnnapra,N,56427,61931,61558,-,-,61136,61044,-,-,-,64718,-,-,,26
+Electrical & Electronics,PTA,"College of Engineering, Kallooppara, Thiruvalla",N,46997,48586,53498,-,-,55049,66557,-,-,-,67208,-,63707,"FW:38829, MG:58061",26
+Electrical & Electronics,TKR,"College of Engineering, Trikaripur",N,41440,44669,46252,-,-,48438,45056,-,64150,-,67239,-,59574,FW:30042,26
+Electrical & Electronics,TLY,"College of Engineering,Thalassery, Kannur",N,28282,30149,31651,33200,-,29191,30459,-,-,-,-,-,61076,FW:18570,26
+Electrical & Electronics,UCC,"Institute of Engineering and Technology, Malappuram",N,52068,63376,66532,-,63858,66519,63481,53691,-,-,-,-,-,,26
+Electrical & Electronics,UCE,"University College of Engineering,Thodupuzha",N,60483,66803,67039,-,-,61404,67044,-,-,-,66605,-,-,,26
+Electrical & Electronics,VDA,"College of Engineering, Vadakara",N,39871,44008,45649,-,58592,50591,49119,-,-,-,62017,-,50039,FW:21087,26
+Electrical & Electronics,AAP,"Al-Ameen Engineering College, Palakkad",S,65926,-,-,-,-,-,-,-,-,-,-,-,-,,26
+Electrical & Electronics,AIK,"Albertian Institute of Science and Technology, Kochi",S,49301,54748,55098,-,-,-,-,-,-,-,-,-,-,FW:37439,26
+Electrical & Electronics,AJC,"Amal Jyothi College of Engineering, Kottayam",S,33453,40602,36689,60538,39635,-,38980,-,-,-,66460,-,-,FW:25408,26
+Electrical & Electronics,ASI,"Adi Shankara Institute of Engineering and Technology, Ernakulam",S,29502,32221,34563,39559,52681,-,33516,-,-,-,52246,-,55557,FW:25917,26
+Electrical & Electronics,ATP,"Ahalia School of Engineering and Technology, Palakkad",S,66108,-,-,-,-,-,-,-,-,-,-,-,-,,26
+Electrical & Electronics,BJK,"Bishop Jerome Institute, Kollam",S,51806,53132,57826,-,-,-,-,-,-,-,61171,-,-,FW:42582,26
+Electrical & Electronics,BMC,"Baselios Mathews II College of Engineering, Kollam",S,63382,-,-,-,-,-,-,-,-,-,-,-,-,FW:51057,26
+Electrical & Electronics,CCE,"Christ College of Engineering, Thrissur",S,27321,30851,29047,34272,30748,37131,33226,-,-,-,34968,-,-,FW:22454,26
+Electrical & Electronics,CEN,"College of Engineering and Technology, Payyanur",S,53155,58973,59285,-,-,-,-,-,-,-,-,-,-,,27
+Electrical & Electronics,CMA,"Carmel College of Engineering and Technology,Alappuzha",S,65659,-,-,-,-,-,-,-,-,-,-,-,-,FW:32738,27
+Electrical & Electronics,DMC,"M. Dasan Institute of Technology, Kozhikode",S,67226,-,-,-,-,-,-,-,-,-,-,-,-,,27
+Electrical & Electronics,FIT,"Federal Institute of Science and Technology, Ernakulam",S,14320,17978,15352,32181,30215,15492,15140,-,-,-,66664,-,37710,FW:11323,27
+Electrical & Electronics,HGW,"Holy Grace Academy of Engineering, Thrissur",S,58834,-,-,-,-,-,-,-,-,-,-,-,-,,27
+Electrical & Electronics,ICE,"Ilahia College of Engineering and Technology, Ernakulam",S,56564,-,57894,-,-,-,-,-,-,-,-,-,-,FW:23400,27
+Electrical & Electronics,IES,"I E S College of Engineering, Thrissur",S,66272,-,-,-,-,-,-,-,-,-,-,-,-,FW:51413,27
+Electrical & Electronics,IGW,"Indira Gandhi Institute of Engineering and Technology, Ernakulam",S,66962,-,-,-,-,-,-,-,-,-,-,-,-,,27
+Electrical & Electronics,JBT,"Jai Bharath College of Management and Engineering Technology, Ernakulam",S,63568,-,-,-,-,-,-,-,-,-,-,-,-,,27
+Electrical & Electronics,JEC,"Jyothi Engineering College, Thrissur",S,30259,38849,42754,-,-,-,-,-,-,-,43853,-,-,FW:28023,27
+Electrical & Electronics,JIT,"John Cox Memorial C S I Institute of Technology, Thiruvananthapuram",S,61273,-,-,-,-,-,-,-,-,-,-,-,-,,27
+Electrical & Electronics,KIT,"Kottayam Institute of Technology and Science, Kottayam",S,49477,-,-,-,-,-,-,-,-,-,-,-,-,,27
+Electrical & Electronics,KMC,"KMCT College of Engineering, Kozhikode",S,50757,54878,51981,50947,-,-,-,-,-,-,58479,-,-,,27
+Electrical & Electronics,KME,"K M E A Engineering College, Cochin",S,59032,-,63606,-,-,-,-,-,-,-,-,-,-,FW:41266,27
+Electrical & Electronics,LMC,"Lourdes Matha College of Science and Technology, Thiruvananthapuram",S,66802,-,-,-,-,-,-,-,-,-,-,-,-,,27
+Electrical & Electronics,MBC,"Mar Baselios Christian College of Engineering and Technology,Idukki",S,65332,-,-,-,-,-,-,-,-,-,-,-,-,,27
+Electrical & Electronics,MBI,"Mar Baselios Institute of Technology and Science, Ernakulam",S,46074,50993,50709,49470,-,-,46367,-,-,-,-,-,-,,27
+Electrical & Electronics,MBT,"Mar Baselios College of Engineering and Technology, Thiruvananthapuram",S,21805,25308,31106,28621,47408,26225,28784,-,-,-,62010,-,-,FW:19861,27
+Electrical & Electronics,MCE,"Marian Engineering College, Thiruvananthapuram",S,38386,55699,49135,51284,-,57552,52627,-,-,-,-,-,-,,28
+Electrical & Electronics,MCK,"Musaliar College of Engineering and Technology, Pathanamthitta",S,60118,-,-,-,-,-,-,-,-,-,-,-,-,,28
+Electrical & Electronics,MCT,"Mohandas College of Engineering and Technology, Thiruvananthapuram",S,55251,-,61858,-,-,-,55631,-,-,-,-,-,-,,28
+Electrical & Electronics,MEA,"M E A Engineering College, Vengoor",S,47942,50825,49088,-,-,-,-,-,-,-,-,-,-,,28
+Electrical & Electronics,MEK,"MES Institute of Technology and Management, Kollam",S,66270,-,-,-,-,-,-,-,-,-,-,-,-,,28
+Electrical & Electronics,MES,"M E S College of Engineering, Kuttippuram",S,33349,52188,34140,-,-,42815,46229,-,-,-,63834,-,-,FW:24170,28
+Electrical & Electronics,MGC,"M G College of Engineering, Thiruvananthapuram",S,65390,-,-,-,-,-,-,-,-,-,-,-,-,,28
+Electrical & Electronics,MGP,"Saintgits College of Engineering, Kottayam",S,26161,32207,28914,40591,51728,-,27085,-,-,-,-,-,-,FW:19342,28
+Electrical & Electronics,MHP,"ACE College Of Engineering, Thiruvananthapuram",S,60539,-,61809,-,-,-,-,-,-,-,-,-,-,,28
+Electrical & Electronics,MLM,"Mangalam College of Engineering, Kottayam",S,65743,-,-,-,-,-,-,-,-,-,-,-,-,FW:50643,28
+Electrical & Electronics,MLT,"Malabar Institute of Technology, Kannur",S,52965,58086,52994,-,-,-,-,-,-,-,-,-,-,,28
+Electrical & Electronics,MUT,"Muthoot Institute of Technology and Science,Ernakulam",S,14299,16062,15596,27051,58389,32593,15270,-,-,-,64820,-,29006,FW:12635,28
+Electrical & Electronics,PRC,"Providence College of Engineering, Chengannur",S,53153,62165,-,-,-,-,-,-,-,-,66898,-,-,,28
+Electrical & Electronics,RET,"Rajagiri School of Engineering and Technology, Ernakulam",S,10268,11549,11970,-,32331,15468,13460,-,-,-,58852,-,-,FW:12321,28
+Electrical & Electronics,RIE,"Rajadhani Institute of Engineering and Technology, Thiruvananthapuram",S,45582,59750,46782,-,-,-,-,54913,-,-,66873,-,51028,,28
+Electrical & Electronics,SBC,"Sree Buddha College of Engineering, Alappuzha",S,53188,-,-,-,-,-,61744,-,-,-,62869,-,-,,28
+Electrical & Electronics,SCM,"SCMS School of Engineering and Technology, Ernakulam",S,27309,28134,27838,-,-,-,-,-,-,-,-,-,35801,FW:21636,28
+Electrical & Electronics,SHR,"Sahrdaya College of Engineering and Technology, Thrissur",S,35472,42517,48648,-,-,-,-,-,-,-,-,-,-,FW:23453,28
+Electrical & Electronics,SIT,"Sarabhai Institute of Science and Technology, Thiruvananthapuram",S,56455,-,-,-,-,-,-,-,-,-,-,-,-,,29
+Electrical & Electronics,SJC,"St Josephs College of Engineering and Technology, Palai",S,28256,40913,44220,-,-,-,-,-,-,-,-,-,-,FW:34314,29
+Electrical & Electronics,SNC,"Sree Narayana Guru College of Engineering and Technology, Kannur",S,55022,57462,64422,-,-,-,56446,-,-,-,-,-,-,,29
+Electrical & Electronics,SNG,"Sree Narayana Gurukulam College of Engineering, Ernakulam",S,60719,62585,61388,-,-,-,-,-,-,-,-,-,-,FW:44502,29
+Electrical & Electronics,SNM,"SNM Institute of Management and Technology, Ernakulam",S,51012,-,-,-,-,-,-,-,-,-,-,-,-,,29
+Electrical & Electronics,SNP,"Sree Narayana Institute of Technology, Adoor",S,52913,-,-,-,-,-,-,-,-,-,-,-,-,,29
+Electrical & Electronics,SPT,"Sreepathy Institute of Management and Technology, Palakkad",S,67373,-,-,-,-,-,-,-,-,-,-,-,-,,29
+Electrical & Electronics,STC,"St Thomas Colllege of Engineering and Technology, Alappuzha",S,63559,-,-,-,-,-,-,-,-,-,-,-,-,,29
+Electrical & Electronics,STI,"St. Thomas Institute For Science and Technology, Thiruvananthapuram",S,66265,-,-,-,-,-,-,-,-,-,-,-,-,,29
+Electrical & Electronics,TCT,"Trinity College of Engineering, Thiruvananthapuram",S,66972,-,-,-,-,-,67016,-,-,-,-,-,-,FW:42159,29
+Electrical & Electronics,TJE,"Thejus Engineering College, Thrissur",S,67444,-,-,-,-,-,-,-,-,-,-,-,-,,29
+Electrical & Electronics,TOC,"Toc H Institute of Science and Technology, Ernakulam",S,37016,38796,39135,-,-,-,-,-,-,61100,-,-,-,,29
+Electrical & Electronics,UKP,"UKF College of Engineering and Technology, Kollam",S,66714,-,-,-,-,-,-,-,-,-,-,-,-,FW:44388,29
+Electrical & Electronics,UNT,"Universal Engineering College, Thrissur",S,62095,-,-,-,-,-,-,-,-,-,-,-,-,,29
+Electrical & Electronics,VAS,"Vidya Academy of Science and Technology, Thrissur",S,37863,44106,48662,-,-,39083,37920,-,-,-,62913,-,57656,FW:19197,29
+Electrical & Electronics,VIT,"VISAT Engineering College, Ernakulam",S,64254,-,-,-,-,-,-,-,-,-,-,-,-,,29
+Electrical & Electronics,VJC,"Viswajyothi College of Engineering and Technology, Ernakulam",S,39113,54563,41188,-,-,-,57608,-,-,-,-,58153,-,,29
+Electrical & Electronics,VKE,"Valia Koonambaikulathamma College of Engineering and Technology, Parippally",S,65829,-,-,-,-,-,-,-,-,-,-,-,-,,29
+Electrical & Electronics,VML,"Vimal Jyothi Engineering College, Kannur",S,36440,37751,37329,-,-,-,37482,-,-,-,60082,-,-,FW:23598,30
+Electrical & Electronics,VPE,"Mahaguru Institute of Technology, Mavelikkara, Alappuzha",S,66166,-,-,-,-,-,-,-,-,-,-,-,-,,30
+Electrical & Electronics,YCE,"Younus College of Engineering and Technology, Kollam",S,66416,-,-,-,-,-,-,-,-,-,-,-,-,FW:44606,30
+Electrical and Computer Engineering,TKM,"T K M College of Engineering, Kollam",G,2902,4381,3946,8783,11417,7883,4633,-,23411,63315,33212,-,3479,"FW:2871, PI:14",30
+Electrical and Computer Engineering,TVE,"College of Engineering, Thiruvananthapuram",G,1502,2297,2073,5037,5202,1904,2280,6167,8090,10172,17675,-,4522,FW:1123,30
+Electrical and Computer Engineering,KGR,"College of Engineering Kidangoor, KOTTAYAM",N,39783,45813,46977,51840,-,-,51887,-,-,-,62679,-,-,FW:25331,30
+Electrical and Computer Engineering,DMC,"M. Dasan Institute of Technology, Kozhikode",S,67111,-,-,-,-,-,-,-,-,-,-,-,-,,30
+Electrical and Computer Engineering,MBT,"Mar Baselios College of Engineering and Technology, Thiruvananthapuram",S,24257,30880,28578,28372,-,26179,30817,-,-,-,-,-,-,FW:19605,30
+Electrical and Computer Engineering,MEA,"M E A Engineering College, Vengoor",S,53544,-,53671,-,-,-,-,-,-,-,-,-,-,FW:41149,30
+Electrical and Computer Engineering,TOC,"Toc H Institute of Science and Technology, Ernakulam",S,44287,49272,47175,50914,66841,-,-,-,-,-,-,-,-,FW:40286,30
+Food Technology,CDT,"Verghese Kurien Institue of Dairy & Food Technology, Mannuthy, Thrissur",G,16609,19534,17097,31800,24751,27206,20974,-,-,-,42747,-,26517,,30
+Food Technology,COU,"KUFOS, School of Ocean Engineering and Underwater Technology, Ernakulam",G,20529,22803,23930,29202,32168,29136,27032,-,-,-,49901,-,59552,,30
+Food Technology,KCT,"Kelappaji College of Agricultural Engineering and Food Technology, Tavanur",G,21782,28311,24674,33327,39228,34158,25374,44335,-,50598,52220,-,50791,,30
+Food Technology,AJC,"Amal Jyothi College of Engineering, Kottayam",S,44227,63974,47850,51446,-,-,47907,-,-,-,-,-,-,FW:25142,31
+Food Technology,ECE,"ICCS College of Engineering and Management, Thrissur",S,65815,-,-,-,-,-,-,-,-,-,-,-,-,,31
+Food Technology,ICE,"Ilahia College of Engineering and Technology, Ernakulam",S,49056,-,55976,-,-,-,-,-,-,-,-,-,-,,31
+Food Technology,MCC,"Musaliar College Of Engineering, Thiruvananthapuram",S,58526,-,62840,-,-,-,-,-,-,-,67306,-,-,,31
+Food Technology,MGP,"Saintgits College of Engineering, Kottayam",S,44777,55881,60496,54450,-,49944,57503,-,-,-,65658,-,-,FW:37618,31
+Food Technology,SBC,"Sree Buddha College of Engineering, Alappuzha",S,62690,-,-,-,-,-,-,-,-,-,-,-,-,,31
+Food Technology,TKI,"T K M Institute of Technology, Kollam",S,36274,51852,38128,51465,52737,-,42726,-,-,-,66701,-,-,FW:29745,31
+Instrumentation & Control Engg.,NSS,"N S S College of Engineering, Palakkad",G,12809,14949,13447,43350,60650,13690,14541,-,39845,-,56562,-,25718,FW:10364,31
+Instrumentation & Control Engg.,SNM,"SNM Institute of Management and Technology, Ernakulam",S,50758,-,-,-,-,-,-,-,-,-,-,-,-,,31
+Industrial Engineering,TVE,"College of Engineering, Thiruvananthapuram",G,7363,8435,8349,11720,18397,9075,12658,9081,24905,-,27331,-,14883,"CC:30, FW:4376",31
+Information Technology,IDK,"Government Engineering College, Idukki",G,10480,19826,16327,42365,35217,20763,29970,31422,55298,-,53871,-,44932,"FW:12947, PI:35, XS:12389",31
+Information Technology,PKD,"Government Engineering College, Palakkad",G,10384,12160,10827,21542,17293,10593,10696,46318,29454,-,43166,-,17621,"FW:8554, PI:24",31
+Information Technology,TRV,"Government Engineering College Barton Hill, Thiruvananthapuram",G,6675,8522,7172,14028,28054,9289,9507,-,-,-,32484,-,10786,"FW:4855, PI:10, SD:18125",32
+Information Technology,KSD,"LBS College of Engineering, Kasaragod",N,28802,33579,30520,-,-,36076,29776,-,-,-,60876,-,51441,"FW:19871, MG:39903",32
+Information Technology,LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,18458,24313,19476,36509,-,-,22748,-,-,-,52522,-,36566,"FW:16073, MG:30005",32
+Information Technology,TLY,"College of Engineering,Thalassery, Kannur",N,29612,31594,31381,-,63341,46518,35298,-,-,-,67274,-,43047,FW:18037,32
+Information Technology,UCK,"University College of Engineering, Kariavattom, Thiruvananthapuram",N,34417,42588,36120,34585,-,34575,35125,36633,65192,-,63578,52167,55720,"FW:26784, MG:44836",32
+Information Technology,VDA,"College of Engineering, Vadakara",N,42073,46273,45834,57400,-,47653,43636,-,-,-,66963,-,50690,FW:28509,32
+Information Technology,KMC,"KMCT College of Engineering, Kozhikode",S,49982,57837,50581,-,-,-,-,-,-,-,-,-,-,FW:39960,32
+Information Technology,MEA,"M E A Engineering College, Vengoor",S,40924,57201,41724,-,-,-,-,-,-,-,-,-,-,FW:30242,32
+Information Technology,RET,"Rajagiri School of Engineering and Technology, Ernakulam",S,11033,13036,13706,21259,-,22381,12370,-,-,-,66330,-,-,FW:10694,32
+Information Technology,TOC,"Toc H Institute of Science and Technology, Ernakulam",S,31085,42257,31888,39434,-,-,46341,-,-,-,-,-,-,FW:30102,32
+Information Technology,VJC,"Viswajyothi College of Engineering and Technology, Ernakulam",S,35811,38474,40239,47951,-,-,45152,-,-,-,-,-,-,FW:31677,32
+Mechanical Engineering,IDK,"Government Engineering College, Idukki",G,-,21544,17491,48282,53746,21944,34024,34468,47985,-,58677,-,55459,FW:14820,32
+Mechanical Engineering,KKE,"Government Engineering College, Kozhikkode",G,9575,16560,15599,28335,40741,16067,15672,45820,33150,58817,46087,-,24628,FW:12198,32
+Mechanical Engineering,KNR,"Government College of Engineering, Kannur",G,11125,15401,15258,32457,43939,15396,15780,-,-,-,49708,36616,27045,"FW:10039, SD:18708",32
+Mechanical Engineering,KTE,"Government Rajiv Gandhi Institute of Technology, Kottayam",G,10985,12155,12132,25107,38130,12214,12805,36570,28529,53623,42659,67385,14652,"DK:53230, FW:8999",32
+Mechanical Engineering,MAC,"Mar Athanasius College of Engineering, Kothamangalam",G,10298,11618,11010,25816,30015,10987,11643,37569,26878,42433,47548,-,-,"CC:10, FW:8984, SD:46383, XS:12227",32
+Mechanical Engineering,NSS,"N S S College of Engineering, Palakkad",G,11136,14022,14048,26971,43730,14111,14499,38331,32505,-,48188,49464,20755,"FW:9746, SD:31266, XS:12229",32
+Mechanical Engineering,PKD,"Government Engineering College, Palakkad",G,10473,18219,15645,29016,47956,17789,16873,47284,-,-,44767,-,24348,FW:11776,33
+Mechanical Engineering,TCR,"Government Engineering College, Thrissur",G,4626,6303,5742,15943,17990,8025,5427,16853,14788,49915,26095,63921,10879,"FW:3993, PI:11",33
+Mechanical Engineering,TKM,"T K M College of Engineering, Kollam",G,7233,8239,8186,17070,24048,10346,9062,33515,21503,61910,34654,64343,-,"CC:3, FW:5553",33
+Mechanical Engineering,TRV,"Government Engineering College Barton Hill, Thiruvananthapuram",G,8986,9790,11066,18459,34763,11838,10463,15664,25400,46030,38284,-,14003,FW:8405,33
+Mechanical Engineering,TVE,"College of Engineering, Thiruvananthapuram",G,2520,3634,3231,6673,8224,3860,3240,8585,11489,11418,19721,65544,6893,"FW:1829, RP:4451",33
+Mechanical Engineering,WYD,"Government Engineering College, Wayanad",G,-,21393,16920,54703,64457,22428,34075,44535,60570,-,59735,-,59270,FW:15838,33
+Mechanical Engineering,ADR,"College of Engineering, Adoor",N,28108,33218,30944,59894,64481,29098,31242,-,-,-,66740,-,45355,"FW:22122, MG:42943",33
+Mechanical Engineering,CEM,"College of Engineering Muttathara, Thiruvananthapuram",N,40029,48091,51668,62957,-,43337,44383,61829,-,-,65439,-,66638,,33
+Mechanical Engineering,KNP,"College of Engineering, Karunagappally, Kollam",N,36935,42882,40274,39284,62569,59293,-,-,-,-,65589,-,67409,MG:50199,33
+Mechanical Engineering,KSD,"LBS College of Engineering, Kasaragod",N,35276,39526,36805,-,65897,35530,35862,-,58604,-,67417,-,66100,"FW:24727, MG:48181, XS:41261",33
+Mechanical Engineering,MDL,"Model Engineering College, Ernakulam",N,9161,10135,10022,23301,26637,10370,12102,-,-,-,44121,-,16814,"FW:8343, MG:11700",33
+Mechanical Engineering,MNR,"College of Engineering, Munnar",N,46954,47646,53097,61828,-,53817,55411,-,-,-,61384,-,-,MG:58823,33
+Mechanical Engineering,PEC,"College of Engineering Pathanapuram, Kollam",N,52233,56509,63553,-,-,62611,57218,-,-,-,66491,-,64894,,33
+Mechanical Engineering,PRN,"College of Engineering Perumon, Kollam",N,34597,39856,37099,41604,60849,35254,40940,53969,-,-,67120,-,44979,FW:28724,33
+Mechanical Engineering,PRP,College of Engineering and Management Punnnapra,N,58773,63330,67070,65717,-,60046,67221,-,-,-,-,-,-,,33
+Mechanical Engineering,SCT,"S C T College of Engineering, Thiruvananthapuram",N,13484,18002,15603,19722,27281,13535,17310,19316,32983,-,47016,-,24281,"FW:12037, MG:20184",33
+Mechanical Engineering,TLY,"College of Engineering,Thalassery, Kannur",N,28835,33199,34121,43635,-,28867,34579,-,60279,-,67083,-,67353,FW:19908,33
+Mechanical Engineering,UCC,"Institute of Engineering and Technology, Malappuram",N,60150,60885,64675,-,-,-,64382,62455,-,-,66851,-,-,,33
+Mechanical Engineering,AAE,"Al-Azhar College of Engineering and Technology, Idukki",S,53548,-,-,-,-,-,-,-,-,-,-,-,-,,33
+Mechanical Engineering,AAP,"Al-Ameen Engineering College, Palakkad",S,64800,-,-,-,-,-,-,-,-,-,-,-,-,,33
+Mechanical Engineering,AIK,"Albertian Institute of Science and Technology, Kochi",S,58859,-,62768,62177,-,-,63907,-,-,-,-,-,-,FW:48155,34
+Mechanical Engineering,AJC,"Amal Jyothi College of Engineering, Kottayam",S,34339,42680,39008,66254,42334,-,43188,-,-,-,67440,-,-,FW:27274,34
+Mechanical Engineering,AME,"Rajadhani Institute of Science and Technology, Palakkad",S,59522,-,-,-,-,-,-,-,-,-,-,-,-,,34
+Mechanical Engineering,ASI,"Adi Shankara Institute of Engineering and Technology, Ernakulam",S,37351,47103,46506,62461,58872,41326,38631,-,-,-,66062,-,53275,FW:28962,34
+Mechanical Engineering,ATP,"Ahalia School of Engineering and Technology, Palakkad",S,59115,63580,64014,-,-,-,-,-,-,-,-,-,-,FW:48863,34
+Mechanical Engineering,BJK,"Bishop Jerome Institute, Kollam",S,56127,61919,62400,-,-,-,-,-,-,-,-,-,-,FW:55023,34
+Mechanical Engineering,BMC,"Baselios Mathews II College of Engineering, Kollam",S,60827,-,61266,-,-,-,-,-,-,-,-,-,-,FW:33912,34
+Mechanical Engineering,CCE,"Christ College of Engineering, Thrissur",S,28900,35451,34345,55331,47359,-,30568,-,-,-,67463,-,-,FW:24134,34
+Mechanical Engineering,CEN,"College of Engineering and Technology, Payyanur",S,56862,57634,57948,-,-,-,62074,-,-,-,-,-,-,,34
+Mechanical Engineering,CMA,"Carmel College of Engineering and Technology,Alappuzha",S,48838,55080,64606,49977,-,51266,55406,-,-,-,-,-,-,FW:34562,34
+Mechanical Engineering,DMC,"M. Dasan Institute of Technology, Kozhikode",S,66563,-,-,-,-,-,-,-,-,-,-,-,-,,34
+Mechanical Engineering,ECE,"ICCS College of Engineering and Management, Thrissur",S,52376,-,-,-,-,-,-,-,-,-,-,-,-,,34
+Mechanical Engineering,EKC,"Eranad Knowledge City Technical Campus, Malappuram",S,62537,-,-,-,-,-,-,-,-,-,-,-,-,,34
+Mechanical Engineering,FIT,"Federal Institute of Science and Technology, Ernakulam",S,23401,26221,29257,38438,52467,24907,24864,-,-,58748,63271,-,37469,FW:19354,34
+Mechanical Engineering,HGW,"Holy Grace Academy of Engineering, Thrissur",S,64227,-,-,-,-,-,-,-,-,-,-,-,-,,34
+Mechanical Engineering,ICE,"Ilahia College of Engineering and Technology, Ernakulam",S,57768,-,58842,-,-,-,-,-,-,-,66951,-,-,FW:38660,34
+Mechanical Engineering,IES,"I E S College of Engineering, Thrissur",S,66332,-,-,-,-,-,-,-,-,-,-,-,-,,34
+Mechanical Engineering,JBT,"Jai Bharath College of Management and Engineering Technology, Ernakulam",S,63966,-,-,-,-,-,-,-,-,-,-,-,-,,34
+Mechanical Engineering,JEC,"Jyothi Engineering College, Thrissur",S,41543,45680,44012,60689,-,44514,49161,-,-,-,65941,-,-,FW:36082,35
+Mechanical Engineering,JIT,"John Cox Memorial C S I Institute of Technology, Thiruvananthapuram",S,65969,-,-,-,-,-,-,-,-,-,-,-,-,,35
+Mechanical Engineering,KIT,"Kottayam Institute of Technology and Science, Kottayam",S,67064,-,-,-,-,-,-,-,-,-,-,-,-,,35
+Mechanical Engineering,KMC,"KMCT College of Engineering, Kozhikode",S,59980,62992,63241,-,-,-,60823,-,-,-,-,-,-,,35
+Mechanical Engineering,KME,"K M E A Engineering College, Cochin",S,58244,-,64595,-,-,-,-,-,-,-,-,-,-,FW:41782,35
+Mechanical Engineering,LMC,"Lourdes Matha College of Science and Technology, Thiruvananthapuram",S,65770,67333,-,-,-,-,-,-,-,-,-,-,-,,35
+Mechanical Engineering,MBC,"Mar Baselios Christian College of Engineering and Technology,Idukki",S,61765,63062,62066,-,-,-,-,-,-,-,-,-,-,,35
+Mechanical Engineering,MBI,"Mar Baselios Institute of Technology and Science, Ernakulam",S,38636,51476,49084,-,-,-,-,-,-,-,-,-,-,,35
+Mechanical Engineering,MBT,"Mar Baselios College of Engineering and Technology, Thiruvananthapuram",S,33304,49316,41662,57021,-,37397,34979,-,-,-,54138,-,-,FW:27079,35
+Mechanical Engineering,MCE,"Marian Engineering College, Thiruvananthapuram",S,46728,54862,51312,47038,-,-,48315,-,-,-,-,-,-,FW:42017,35
+Mechanical Engineering,MCK,"Musaliar College of Engineering and Technology, Pathanamthitta",S,66474,-,-,-,-,-,-,-,-,-,-,-,-,FW:54956,35
+Mechanical Engineering,MCT,"Mohandas College of Engineering and Technology, Thiruvananthapuram",S,59141,-,59506,-,-,-,-,-,-,-,-,-,-,,35
+Mechanical Engineering,MEA,"M E A Engineering College, Vengoor",S,42982,-,43830,-,-,-,-,-,-,-,-,-,-,,35
+Mechanical Engineering,MEE,"MES College of Engineering and Technology, Ernakulam",S,59775,-,62586,-,-,-,-,-,-,-,62132,-,-,FW:50712,35
+Mechanical Engineering,MEK,"MES Institute of Technology and Management, Kollam",S,66190,-,-,-,-,-,-,-,-,-,-,-,-,,35
+Mechanical Engineering,MET,"Mets School of Engineering, Thrissur",S,61385,-,-,-,-,-,-,-,-,-,-,-,-,,35
+Mechanical Engineering,MGE,"MGM College of Engineering & Technology, Ernakulam",S,67212,-,-,-,-,-,-,-,-,-,-,-,-,,35
+Mechanical Engineering,MGP,"Saintgits College of Engineering, Kottayam",S,33048,46994,43298,67483,38890,42735,34543,-,-,-,66171,-,-,FW:34349,35
+Mechanical Engineering,MHP,"ACE College Of Engineering, Thiruvananthapuram",S,66959,-,-,-,-,-,-,-,-,-,-,-,-,,35
+Mechanical Engineering,MLM,"Mangalam College of Engineering, Kottayam",S,66702,-,-,-,-,-,-,-,-,-,-,-,-,FW:54080,36
+Mechanical Engineering,MLT,"Malabar Institute of Technology, Kannur",S,66398,-,-,-,-,-,-,-,-,-,-,-,-,,36
+Mechanical Engineering,MUS,"Muslim Association College of Engineering, Thiruvananthapuram",S,63402,-,-,-,-,-,-,-,-,-,-,-,-,,36
+Mechanical Engineering,MUT,"Muthoot Institute of Technology and Science,Ernakulam",S,20591,22168,22269,39460,42846,28492,33003,-,-,-,66544,-,27753,FW:17045,36
+Mechanical Engineering,MZC,"Mount Zion College of Engineering, Pathanamthitta",S,48039,-,-,-,-,-,-,-,-,-,-,-,-,,36
+Mechanical Engineering,NIE,"Nirmala College of Engineering Technology and Management, Thirissur",S,66141,-,-,-,-,-,-,-,-,-,-,-,-,,36
+Mechanical Engineering,PAA,"P A Aziz College of Engineering and Technology, Thiruvananthapuram",S,65083,-,-,-,-,-,-,-,-,-,-,-,-,,36
+Mechanical Engineering,PRC,"Providence College of Engineering, Chengannur",S,50955,53298,-,-,-,-,-,-,-,-,-,-,61566,FW:23119,36
+Mechanical Engineering,RCE,"Royal College of Engineering and Technology, Thrissur",S,66614,-,-,-,-,-,-,-,-,-,-,-,-,,36
+Mechanical Engineering,RET,"Rajagiri School of Engineering and Technology, Ernakulam",S,18328,21059,19822,34686,33382,30268,24937,54116,51993,-,61260,-,-,FW:19114,36
+Mechanical Engineering,RIE,"Rajadhani Institute of Engineering and Technology, Thiruvananthapuram",S,53000,67319,64075,-,-,62450,62482,-,-,-,-,-,65278,,36
+Mechanical Engineering,SBC,"Sree Buddha College of Engineering, Alappuzha",S,51989,64286,61411,-,-,53875,61780,-,-,-,64709,-,59879,,36
+Mechanical Engineering,SCM,"SCMS School of Engineering and Technology, Ernakulam",S,31407,41830,32385,-,-,-,-,-,-,-,-,-,48873,FW:30585,36
+Mechanical Engineering,SIT,"Sarabhai Institute of Science and Technology, Thiruvananthapuram",S,66775,-,-,-,-,-,-,-,-,-,-,-,-,,36
+Mechanical Engineering,SJC,"St Josephs College of Engineering and Technology, Palai",S,36701,45971,48171,63697,-,43702,37783,-,-,-,-,-,-,FW:35617,36
+Mechanical Engineering,SNC,"Sree Narayana Guru College of Engineering and Technology, Kannur",S,59719,59922,-,-,-,60253,-,-,-,-,-,-,60402,FW:48724,36
+Mechanical Engineering,SNG,"Sree Narayana Gurukulam College of Engineering, Ernakulam",S,67244,-,-,-,-,-,-,-,-,-,-,-,-,FW:49271,36
+Mechanical Engineering,SNM,"SNM Institute of Management and Technology, Ernakulam",S,67371,-,-,-,-,-,-,-,-,-,-,-,-,FW:58674,37
+Mechanical Engineering,SNP,"Sree Narayana Institute of Technology, Adoor",S,60899,-,-,-,-,-,-,-,-,-,-,-,-,,37
+Mechanical Engineering,SPT,"Sreepathy Institute of Management and Technology, Palakkad",S,63694,67075,-,-,-,-,64524,-,-,-,-,-,-,,37
+Mechanical Engineering,STC,"St Thomas Colllege of Engineering and Technology, Alappuzha",S,66999,-,-,-,-,-,-,-,-,-,-,-,-,FW:41295,37
+Mechanical Engineering,STI,"St. Thomas Institute For Science and Technology, Thiruvananthapuram",S,61520,-,-,-,-,-,-,-,-,-,-,-,-,FW:38483,37
+Mechanical Engineering,STM,"St.Thomas College of Engineering and Technology,Kannur",S,56500,56584,-,-,-,-,-,-,-,-,-,-,-,FW:42143,37
+Mechanical Engineering,TCE,"TOMS College of Engineering,Kottayam",S,54465,-,-,-,-,-,-,-,-,-,-,-,-,,37
+Mechanical Engineering,TCT,"Trinity College of Engineering, Thiruvananthapuram",S,66797,-,-,-,-,-,-,-,-,-,-,-,-,FW:54969,37
+Mechanical Engineering,TJE,"Thejus Engineering College, Thrissur",S,66513,-,-,-,-,-,-,-,-,-,-,-,-,FW:55356,37
+Mechanical Engineering,TKI,"T K M Institute of Technology, Kollam",S,35292,41573,36419,-,-,-,-,-,-,-,-,-,-,FW:17665,37
+Mechanical Engineering,TOC,"Toc H Institute of Science and Technology, Ernakulam",S,42699,50258,51766,43622,56412,46799,54552,-,-,-,-,-,49264,FW:24034,37
+Mechanical Engineering,UKP,"UKF College of Engineering and Technology, Kollam",S,62570,63779,66327,67477,-,63929,63171,-,-,-,-,-,-,FW:41360,37
+Mechanical Engineering,UNT,"Universal Engineering College, Thrissur",S,63043,-,-,-,-,-,-,-,-,-,-,-,-,FW:44374,37
+Mechanical Engineering,VAK,"Vidya Academy of Science and Technology, Thiruvananthapuram",S,61005,67232,-,-,-,-,63625,-,-,-,-,-,-,FW:52698,37
+Mechanical Engineering,VAS,"Vidya Academy of Science and Technology, Thrissur",S,49134,50368,55159,55984,-,-,51462,-,-,-,-,-,64726,FW:36032,37
+Mechanical Engineering,VIT,"VISAT Engineering College, Ernakulam",S,62316,-,64543,-,-,-,-,-,-,-,-,-,-,,37
+Mechanical Engineering,VJC,"Viswajyothi College of Engineering and Technology, Ernakulam",S,44215,50417,53051,-,56819,-,-,-,-,-,-,-,-,FW:34323,37
+Mechanical Engineering,VKE,"Valia Koonambaikulathamma College of Engineering and Technology, Parippally",S,65084,-,-,-,-,-,-,-,-,-,-,-,-,,37
+Mechanical Engineering,VML,"Vimal Jyothi Engineering College, Kannur",S,44281,48213,56900,-,-,-,45677,-,-,-,-,-,-,FW:22102,37
+Mechanical Engineering,VPE,"Mahaguru Institute of Technology, Mavelikkara, Alappuzha",S,67458,-,-,-,-,-,-,-,-,-,-,-,-,,38
+Mechanical Engineering,YCE,"Younus College of Engineering and Technology, Kollam",S,67362,-,-,-,-,-,-,-,-,-,-,-,-,,38
+Production Engineering,TCR,,G,13007,15096,13972,42762,23881,14223,16153,-,49484,-,49015,-,28028,"CC:35, FW:9343",38
+Robotics and Artificial Intelligence,KTE,,G,6641,7224,7481,10863,21628,7761,8931,-,-,-,25415,63876,13500,FW:4779,38
+Robotics and Artificial Intelligence,IES,,S,44137,53148,45703,66887,-,-,64856,-,-,-,67138,-,-,FW:26607,38
+Artificial Intelligence and Data Science,CEC,"College of Engineering, Cherthala",N,26987,28262,28457,40065,34448,35336,33618,-,-,-,52740,-,45198,"FW:19547, MG:43976",38
+Artificial Intelligence and Data Science,KNP,"College of Engineering, Karunagappally, Kollam",N,29638,32599,32013,41525,-,34124,29780,-,-,-,61110,-,50715,"FW:21956, MG:54225",38
+Artificial Intelligence and Data Science,PRN,"College of Engineering Perumon, Kollam",N,22456,24250,23286,26583,60183,-,28248,-,-,-,63299,64532,36929,FW:16640,38
+Artificial Intelligence and Data Science,UCE,"University College of Engineering,Thodupuzha",N,38149,44252,48212,55982,64830,51666,51915,44486,-,64731,66083,-,60159,FW:22574,38
+Artificial Intelligence and Data Science,AAP,"Al-Ameen Engineering College, Palakkad",S,61294,61981,63776,-,-,65124,63718,-,-,-,63699,-,-,,38
+Artificial Intelligence and Data Science,AJC,"Amal Jyothi College of Engineering, Kottayam",S,20340,26172,31065,-,-,-,24479,-,-,-,39539,-,-,FW:13970,38
+Artificial Intelligence and Data Science,AWH,"AWH Engineering College, Kozhikkode",S,44056,54007,45008,-,-,53165,47128,-,-,-,63116,-,-,,38
+Artificial Intelligence and Data Science,EKC,"Eranad Knowledge City Technical Campus, Malappuram",S,55632,66602,57006,-,-,-,-,-,-,-,-,-,-,FW:27765,39
+Artificial Intelligence and Data Science,GIK,"Gregorian Institute of Technology,Kanjirampara,Kottayam",S,67378,-,-,-,-,-,-,-,-,-,-,-,-,FW:52044,39
+Artificial Intelligence and Data Science,HGW,"Holy Grace Academy of Engineering, Thrissur",S,67406,-,-,-,-,-,-,-,-,-,-,-,-,,39
+Artificial Intelligence and Data Science,ICE,"Ilahia College of Engineering and Technology, Ernakulam",S,49261,58480,49847,-,-,-,54203,-,-,-,64303,-,-,FW:34622,39
+Artificial Intelligence and Data Science,JEC,"Jyothi Engineering College, Thrissur",S,29946,36931,43175,-,56441,46106,41235,-,-,-,66708,-,-,FW:18561,39
+Artificial Intelligence and Data Science,KME,"K M E A Engineering College, Cochin",S,41291,52697,45004,-,-,-,59598,-,-,-,54919,-,-,FW:24695,39
+Artificial Intelligence and Data Science,KMI,"KMCT Institute of Technology and Management,Kuttipuram,Malappuram",S,56369,-,58223,-,-,-,59919,-,-,-,-,-,-,FW:47781,39
+Artificial Intelligence and Data Science,KMT,"KMCT Institute of Emerging Technology and Management, Mukkam, Kozhikode",S,44786,65442,46108,-,-,60459,47157,-,-,-,65307,-,63745,FW:29427,39
+Artificial Intelligence and Data Science,MEA,"M E A Engineering College, Vengoor",S,39170,52948,40364,-,-,-,51571,-,-,-,66389,-,-,FW:30258,39
+Artificial Intelligence and Data Science,MEE,"MES College of Engineering and Technology, Ernakulam",S,50873,64296,54585,62069,-,-,-,-,-,-,-,-,-,FW:29858,39
+Artificial Intelligence and Data Science,MES,"M E S College of Engineering, Kuttippuram",S,22979,34521,23696,55686,-,-,46639,-,-,-,67456,-,-,FW:14589,39
+Artificial Intelligence and Data Science,MET,"Mets School of Engineering, Thrissur",S,67293,-,-,-,-,-,-,-,-,-,-,-,-,,39
+Artificial Intelligence and Data Science,MUT,"Muthoot Institute of Technology and Science,Ernakulam",S,12524,12953,13723,15794,35743,30664,12585,-,-,-,41319,-,19425,FW:10982,39
+Artificial Intelligence and Data Science,NIE,"Nirmala College of Engineering Technology and Management, Thirissur",S,58369,65127,63235,-,-,-,60476,-,-,-,63430,-,63192,FW:36379,39
+Artificial Intelligence and Data Science,PAA,"P A Aziz College of Engineering and Technology, Thiruvananthapuram",S,64604,-,-,-,-,-,-,-,-,-,-,-,-,,39
+Artificial Intelligence and Data Science,RCE,"Royal College of Engineering and Technology, Thrissur",S,59245,64153,63720,-,-,-,66228,-,-,-,-,-,-,FW:40018,39
+Artificial Intelligence and Data Science,RET,"Rajagiri School of Engineering and Technology, Ernakulam",S,6899,9180,9236,10582,28175,-,-,-,-,-,65440,-,-,FW:6708,39
+Artificial Intelligence and Data Science,SJC,"St Josephs College of Engineering and Technology, Palai",S,22608,26719,37299,48378,-,-,37498,-,-,-,-,-,-,FW:22030,39
+Artificial Intelligence and Data Science,SNC,"Sree Narayana Guru College of Engineering and Technology, Kannur",S,46399,50945,46704,-,-,-,-,-,-,-,-,-,-,FW:40595,40
+Artificial Intelligence and Data Science,SPT,"Sreepathy Institute of Management and Technology, Palakkad",S,59549,63830,65210,-,-,-,62977,-,-,-,60783,-,-,FW:44812,40
+Artificial Intelligence and Data Science,TCE,"TOMS College of Engineering,Kottayam",S,65460,-,-,-,-,-,-,-,-,-,-,-,-,FW:40873,40
+Artificial Intelligence and Data Science,VJC,"Viswajyothi College of Engineering and Technology, Ernakulam",S,26020,27891,35748,-,50218,44377,31015,-,-,-,-,-,-,FW:15095,40
+Artificial Intelligence and Data Science,VML,"Vimal Jyothi Engineering College, Kannur",S,36474,41457,50931,-,57063,-,36547,-,-,-,55291,-,-,FW:21470,40
+Bio Technology and Biochemical Engineering,SCT,"S C T College of Engineering, Thiruvananthapuram",N,11120,14389,12876,17314,37602,20948,14775,-,-,-,22332,-,29072,"FW:9514, MG:23198",40
+Bio Technology and Biochemical Engineering,MCT,"Mohandas College of Engineering and Technology, Thiruvananthapuram",S,42888,62995,52786,61055,44433,-,59465,-,-,-,53039,-,52398,,40
+Bio Technology and Biochemical Engineering,SBC,"Sree Buddha College of Engineering, Alappuzha",S,38978,59262,61946,-,-,-,-,-,-,-,-,-,-,,40
+Computer Science and Engineering (Artificial Intelligence and Machine Learning),CEA,"College of Engineering, Attingal",N,24922,29704,26534,36144,46895,30669,27298,35362,44859,-,63418,-,39742,"FW:14634, MG:39896",40
+Computer Science and Engineering (Artificial Intelligence and Machine Learning),CEK,"College of Engineering,Kottarakkara, Kollam",N,35458,38784,42002,50279,50683,37718,35790,-,-,-,67163,-,51364,"FW:28482, MG:51272",40
+Computer Science and Engineering (Artificial Intelligence and Machine Learning),CHN,"College of Engineering,Chengannoor",N,11315,13263,11676,11441,21415,-,13014,-,-,-,42410,-,14617,"FW:9114, MG:17333",40
+Computer Science and Engineering (Artificial Intelligence and Machine Learning),SCT,"S C T College of Engineering, Thiruvananthapuram",N,6703,7983,7825,9105,-,9677,8136,11442,-,33210,33627,-,10866,"FW:6253, MG:9375",40
+Computer Science and Engineering (Artificial Intelligence and Machine Learning),AIK,"Albertian Institute of Science and Technology, Kochi",S,34357,36377,38041,35109,-,-,-,-,-,-,55657,-,-,FW:30768,40
+Computer Science and Engineering (Artificial Intelligence and Machine Learning),AME,"Rajadhani Institute of Science and Technology, Palakkad",S,67028,-,-,-,-,-,-,-,-,-,-,-,-,,41
+Computer Science and Engineering (Artificial Intelligence and Machine Learning),CIM,"Mentor Academy for Design Entrepreneurship Innovation and Technology , Ettapilly, Ernakulam",S,65417,-,-,-,-,-,-,-,-,-,-,-,-,,41
+Computer Science and Engineering (Artificial Intelligence and Machine Learning),JIT,"John Cox Memorial C S I Institute of Technology, Thiruvananthapuram",S,54471,55682,57266,-,-,-,58733,-,-,-,-,-,-,FW:56638,41
+Computer Science and Engineering (Artificial Intelligence and Machine Learning),KVE,"KVM College of Engineering and Information Technology, Alappuzha",S,67264,-,-,-,-,-,-,-,-,-,-,-,-,,41
+Computer Science and Engineering (Artificial Intelligence and Machine Learning),MCK,"Musaliar College of Engineering and Technology, Pathanamthitta",S,63509,-,-,-,-,-,-,-,-,-,-,-,-,FW:39242,41
+Computer Science and Engineering (Artificial Intelligence and Machine Learning),MEA,"M E A Engineering College, Vengoor",S,27492,59621,27711,-,-,-,54229,-,-,-,-,-,-,FW:19240,41
+Computer Science and Engineering (Artificial Intelligence and Machine Learning),NCE,"Nehru College of Engineering and Research Centre, Thrissur",S,38558,42854,45445,-,-,51375,42552,-,-,-,44796,-,56071,FW:25769,41
+Computer Science and Engineering (Artificial Intelligence and Machine Learning),RIE,"Rajadhani Institute of Engineering and Technology, Thiruvananthapuram",S,39753,46567,43152,42231,-,-,47116,66882,-,-,53824,-,66015,FW:26831,41
+Computer Science and Engineering (Artificial Intelligence and Machine Learning),SBC,"Sree Buddha College of Engineering, Alappuzha",S,35223,39357,46819,-,62506,39983,50399,-,-,-,59236,-,44661,FW:28146,41
+Computer Science and Engineering (Artificial Intelligence and Machine Learning),STC,"St Thomas Colllege of Engineering and Technology, Alappuzha",S,51756,63221,59874,-,-,56931,63343,-,-,-,-,-,-,FW:31455,41
+Computer Science and Engineering (Artificial Intelligence and Machine Learning),VIT,"VISAT Engineering College, Ernakulam",S,43531,57999,54856,-,-,-,51842,-,-,-,-,-,-,FW:33682,41
+Computer Science and Business Systems,MDL,"Model Engineering College, Ernakulam",N,3085,3821,3715,4529,9304,4131,4432,-,-,-,34707,-,5757,"FW:2966, MG:4506",41
+Computer Science and Business Systems,PRP,College of Engineering and Management Punnnapra,N,55913,62366,61091,60775,-,57369,62278,-,-,-,-,-,-,FW:44752,41
+Computer Science and Business Systems,EKC,"Eranad Knowledge City Technical Campus, Malappuram",S,64727,-,-,-,-,-,-,-,-,-,-,-,-,,41
+Computer Science and Business Systems,MLM,"Mangalam College of Engineering, Kottayam",S,63455,-,-,-,-,-,-,-,-,-,-,-,-,FW:61474,41
+Computer Science and Business Systems,RET,"Rajagiri School of Engineering and Technology, Ernakulam",S,7678,9057,11921,12588,-,-,10294,40472,-,36762,58971,-,-,FW:10161,42
+Computer Science and Engineering (Cyber Security),PTA,"College of Engineering, Kallooppara, Thiruvalla",N,30193,34934,31702,54486,-,-,33886,54598,-,-,52172,-,43086,"FW:26561, MG:49953",42
+Computer Science and Engineering (Cyber Security),UCE,"University College of Engineering,Thodupuzha",N,42849,49322,47739,51013,57262,59118,53738,-,-,-,65107,-,62448,FW:25196,42
+Computer Science and Engineering (Cyber Security),AAE,"Al-Azhar College of Engineering and Technology, Idukki",S,63956,-,66783,-,-,-,-,-,-,-,-,-,-,,42
+Computer Science and Engineering (Cyber Security),AAP,"Al-Ameen Engineering College, Palakkad",S,62668,-,64335,-,-,-,64379,-,-,-,-,-,-,,42
+Computer Science and Engineering (Cyber Security),AJC,"Amal Jyothi College of Engineering, Kottayam",S,16973,20765,25462,-,-,-,-,50631,-,-,-,-,-,FW:19688,42
+Computer Science and Engineering (Cyber Security),AME,"Rajadhani Institute of Science and Technology, Palakkad",S,67061,-,-,-,-,-,-,-,-,-,-,-,-,,42
+Computer Science and Engineering (Cyber Security),CCV,"MGM TECHNOLOGICAL CAMPUS,Valanchery",S,-,-,-,-,-,-,-,-,-,-,-,-,-,FW:53159,42
+Computer Science and Engineering (Cyber Security),CIM,"Mentor Academy for Design Entrepreneurship Innovation and Technology , Ettapilly, Ernakulam",S,66418,-,-,-,-,-,-,-,-,-,-,-,-,,42
+Computer Science and Engineering (Cyber Security),DMC,"M. Dasan Institute of Technology, Kozhikode",S,53318,57857,53570,-,-,-,54346,-,-,-,-,-,-,FW:44339,42
+Computer Science and Engineering (Cyber Security),EKC,"Eranad Knowledge City Technical Campus, Malappuram",S,61418,-,61671,-,-,65788,-,-,-,-,-,-,-,,42
+Computer Science and Engineering (Cyber Security),HGW,"Holy Grace Academy of Engineering, Thrissur",S,55971,56375,-,63087,-,-,-,-,-,-,-,-,61593,,42
+Computer Science and Engineering (Cyber Security),ICE,"Ilahia College of Engineering and Technology, Ernakulam",S,50753,62965,52529,-,-,58874,62693,-,-,-,-,-,-,FW:40732,42
+Computer Science and Engineering (Cyber Security),JBT,"Jai Bharath College of Management and Engineering Technology, Ernakulam",S,66976,-,-,-,-,-,-,-,-,-,-,-,-,,42
+Computer Science and Engineering (Cyber Security),JCE,"Jawaharlal College of Engineering and Technology, Palakkad",S,41628,50569,48948,-,-,60986,51339,-,-,-,50408,-,52095,,43
+Computer Science and Engineering (Cyber Security),JEC,"Jyothi Engineering College, Thrissur",S,30082,35037,36147,49094,57605,45815,30352,-,-,-,41574,-,-,FW:24185,43
+Computer Science and Engineering (Cyber Security),KMT,"KMCT Institute of Emerging Technology and Management, Mukkam, Kozhikode",S,47870,62551,48646,-,-,60454,56649,-,-,-,-,-,-,FW:26655,43
+Computer Science and Engineering (Cyber Security),KVE,"KVM College of Engineering and Information Technology, Alappuzha",S,30377,-,-,-,-,-,-,-,-,-,-,-,-,,43
+Computer Science and Engineering (Cyber Security),MES,"M E S College of Engineering, Kuttippuram",S,24929,36395,25670,-,-,-,30555,-,-,-,62999,-,-,FW:17499,43
+Computer Science and Engineering (Cyber Security),MGE,"MGM College of Engineering & Technology, Ernakulam",S,64781,-,-,-,-,-,-,-,-,-,-,-,-,,43
+Computer Science and Engineering (Cyber Security),MLT,"Malabar Institute of Technology, Kannur",S,66564,66955,66874,-,-,-,-,-,-,-,-,-,-,,43
+Computer Science and Engineering (Cyber Security),MUT,"Muthoot Institute of Technology and Science,Ernakulam",S,11826,13992,12414,15748,-,-,12823,40361,25082,41650,59528,-,20457,FW:12088,43
+Computer Science and Engineering (Cyber Security),RCE,"Royal College of Engineering and Technology, Thrissur",S,64234,-,-,-,-,-,-,-,-,-,-,-,-,FW:47100,43
+Computer Science and Engineering (Cyber Security),RIE,"Rajadhani Institute of Engineering and Technology, Thiruvananthapuram",S,45289,47866,51605,58240,-,63775,53584,-,-,-,65166,-,58581,FW:16842,43
+Computer Science and Engineering (Cyber Security),SJC,"St Josephs College of Engineering and Technology, Palai",S,24221,27446,31603,45382,-,-,27778,-,-,-,49818,-,-,FW:25343,43
+Computer Science and Engineering (Cyber Security),SNG,"Sree Narayana Gurukulam College of Engineering, Ernakulam",S,43845,47584,49358,59353,-,45723,50397,-,-,-,60710,-,50221,FW:32266,43
+Computer Science and Engineering (Cyber Security),SNM,"SNM Institute of Management and Technology, Ernakulam",S,57701,60267,-,-,-,-,-,-,-,-,-,-,-,,43
+Computer Science and Engineering (Cyber Security),TCT,"Trinity College of Engineering, Thiruvananthapuram",S,53091,-,67060,55856,-,-,64173,-,-,-,65022,-,66335,FW:48106,43
+Computer Science and Engineering (Cyber Security),UKP,"UKF College of Engineering and Technology, Kollam",S,57755,66393,57832,-,-,-,-,-,-,-,-,-,61181,FW:48472,43
+Computer Science and Engineering (Cyber Security),VKE,"Valia Koonambaikulathamma College of Engineering and Technology, Parippally",S,66570,-,-,-,-,-,-,-,-,-,-,-,-,FW:42742,43
+Computer Science and Engineering (Cyber Security),VML,"Vimal Jyothi Engineering College, Kannur",S,37896,42904,45069,-,-,56768,38742,-,-,-,-,-,-,FW:16786,43
+Electronics & Biomedical Engg,MDL,"Model Engineering College, Ernakulam",N,7903,10100,10060,18721,-,-,10818,25934,-,42419,39324,-,16509,"FW:7405, MG:12960",44
+Electronics & Biomedical Engg,ASI,"Adi Shankara Institute of Engineering and Technology, Ernakulam",S,30951,36050,38354,35722,-,34394,33647,-,-,-,-,-,54222,FW:21145,44
+Electronics and Computer Science,UCC,"Institute of Engineering and Technology, Malappuram",N,42369,45992,44906,-,-,65661,46336,-,-,-,64164,-,-,,44
+Electronics and Computer Engineering,LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,20172,22070,22854,26956,-,23022,24089,23495,-,-,-,-,40939,"FW:18838, MG:30161",44
+Electronics and Computer Engineering,PRN,"College of Engineering Perumon, Kollam",N,28986,33423,32395,32087,-,-,39205,-,-,-,66774,-,38364,FW:24558,44
+Electronics and Computer Engineering,MCE,"Marian Engineering College, Thiruvananthapuram",S,41979,45638,48449,-,-,-,44258,-,-,-,-,-,-,FW:34930,44
+Electronics and Computer Engineering,MCT,"Mohandas College of Engineering and Technology, Thiruvananthapuram",S,65112,-,67207,-,-,-,-,-,-,-,-,-,-,,44
+Electronics and Computer Engineering,MGP,"Saintgits College of Engineering, Kottayam",S,25637,35110,39132,61478,-,-,45480,-,-,-,-,-,-,FW:32330,44
+Electronics and Computer Engineering,MLM,"Mangalam College of Engineering, Kottayam",S,66609,-,-,-,-,-,-,-,-,-,-,-,-,FW:59584,44
+Electronics and Computer Engineering,SBC,"Sree Buddha College of Engineering, Alappuzha",S,57548,60192,66372,-,-,-,-,-,-,-,-,-,-,,44
+Electronics and Computer Engineering,SJC,"St Josephs College of Engineering and Technology, Palai",S,26163,30204,37964,49781,-,37307,-,-,-,-,-,-,-,FW:25895,44
+Electronics and Computer Engineering,SNP,"Sree Narayana Institute of Technology, Adoor",S,42305,-,-,-,-,-,-,-,-,-,-,-,-,,44
+Electronics and Computer Engineering,TJE,"Thejus Engineering College, Thrissur",S,59102,62163,66956,-,-,-,63615,-,-,-,-,-,60884,,44
+Electronics Engineering (VLSI Design & Technology),MDL,"Model Engineering College, Ernakulam",N,4844,5782,6276,6723,-,-,5281,-,35017,-,43595,-,7966,"FW:6281, MG:7744",45
+Electronics Engineering (VLSI Design & Technology),MGP,"Saintgits College of Engineering, Kottayam",S,40010,48367,46946,58503,-,-,46601,-,-,-,-,-,-,,45
+Electronics Engineering (VLSI Design & Technology),SCM,"SCMS School of Engineering and Technology, Ernakulam",S,34401,43130,37812,61845,-,-,61639,-,-,-,-,-,56493,FW:28487,45
+Electronics Engineering (VLSI Design & Technology),SNG,"Sree Narayana Gurukulam College of Engineering, Ernakulam",S,66604,-,-,-,-,-,-,-,-,-,-,-,-,,45
+Electronics Engineering (VLSI Design & Technology),SPT,"Sreepathy Institute of Management and Technology, Palakkad",S,65446,-,-,-,-,-,-,-,-,-,-,-,-,,45
+Mechanical (Automobile),SCT,"S C T College of Engineering, Thiruvananthapuram",N,19308,28997,25199,33729,41906,22422,26677,-,-,-,57496,-,41613,"FW:17647, MG:36888",45
+Mechanical (Automobile),AJC,"Amal Jyothi College of Engineering, Kottayam",S,43826,59267,58475,-,-,-,-,-,-,-,66878,-,-,,45
+Mechanical (Automobile),SNP,"Sree Narayana Institute of Technology, Adoor",S,67308,-,-,-,-,-,-,-,-,-,-,-,-,,45
+Polymer Engg.,UCE,"University College of Engineering,Thodupuzha",N,66536,-,-,-,-,-,-,-,-,-,-,-,-,,45
+Printing Technology,UCC,"Institute of Engineering and Technology, Malappuram",N,56971,62737,62358,62545,-,-,59299,-,-,-,-,-,-,,45
+Artificial Intelligence,BMC,"Baselios Mathews II College of Engineering, Kollam",S,44522,48004,51543,49171,58096,50404,54461,-,-,-,67279,-,-,FW:31591,46
+B.Tech Agricultural Engineering,ICE,"Ilahia College of Engineering and Technology, Ernakulam",S,39029,56140,49539,-,-,-,62628,-,-,-,-,-,-,,46
+B.Tech Agricultural Engineering,JCE,"Jawaharlal College of Engineering and Technology, Palakkad",S,59104,-,63414,-,-,62741,61485,-,-,-,61433,-,-,,46
+B.Tech Agricultural Engineering,PAA,"P A Aziz College of Engineering and Technology, Thiruvananthapuram",S,66302,-,-,-,-,-,-,-,-,-,-,-,-,,46
+B.Tech Agricultural Engineering,STC,"St Thomas Colllege of Engineering and Technology, Alappuzha",S,61867,62081,-,-,-,-,-,-,-,-,65731,-,-,,46
+Aeronautical Engineering,JCE,"Jawaharlal College of Engineering and Technology, Palakkad",S,33105,44976,43683,63268,-,-,44213,-,-,-,53057,-,48104,,46
+Aeronautical Engineering,MHP,"ACE College Of Engineering, Thiruvananthapuram",S,37399,45264,43207,-,-,60437,39095,-,-,-,65239,-,-,FW:21993,46
+Aeronautical Engineering,MZC,"Mount Zion College of Engineering, Pathanamthitta",S,44825,49646,45149,-,-,-,-,-,-,57020,-,-,-,,46
+Aeronautical Engineering,RIE,"Rajadhani Institute of Engineering and Technology, Thiruvananthapuram",S,38498,43277,44703,45604,44085,52569,48554,-,-,-,64136,-,62089,,46
+Aeronautical Engineering,TCE,"TOMS College of Engineering,Kottayam",S,64736,-,65004,-,-,-,65040,-,-,-,67400,-,-,,46
+Automobile Engineering,AAE,"Al-Azhar College of Engineering and Technology, Idukki",S,67386,-,-,-,-,-,-,-,-,-,-,-,-,,47
+Automobile Engineering,KIT,"Kottayam Institute of Technology and Science, Kottayam",S,66911,-,-,-,-,-,-,-,-,-,-,-,-,,47
+Automobile Engineering,KMC,"KMCT College of Engineering, Kozhikode",S,57096,61723,60068,-,-,-,-,-,-,-,-,-,-,,47
+Automobile Engineering,SCM,"SCMS School of Engineering and Technology, Ernakulam",S,54702,59216,54895,-,-,-,-,-,-,-,-,-,59661,FW:41900,47
+Computer Science & Engineering and Business Systems,VML,"Vimal Jyothi Engineering College, Kannur",S,45618,47098,51001,-,-,-,51763,-,-,-,-,-,-,FW:10041,47
+Bio Medical Engineering,AAE,"Al-Azhar College of Engineering and Technology, Idukki",S,65650,-,-,-,-,-,-,-,-,-,-,-,-,,47
+Bio Medical Engineering,ICE,"Ilahia College of Engineering and Technology, Ernakulam",S,45710,58698,50786,-,-,-,-,-,-,55358,-,-,-,FW:17458,47
+Bio Medical Engineering,KMW,"KMCT College of Engineering for Women, Kozhikode",S,34211,39522,45837,-,-,43541,38473,-,-,-,47901,-,-,XS:50862,47
+Bio Medical Engineering,MCC,"Musaliar College Of Engineering, Thiruvananthapuram",S,64923,65271,-,-,-,-,-,-,-,-,-,-,-,,47
+Bio Medical Engineering,MEC,"Malabar College of Engineering and Technology, Thrissur",S,46269,60400,50615,-,-,-,-,-,-,-,-,-,62281,,47
+Bio Medical Engineering,RIE,"Rajadhani Institute of Engineering and Technology, Thiruvananthapuram",S,35180,50979,47033,54984,40415,45013,40589,-,-,-,60709,-,44550,,47
+Bio Medical Engineering,SHR,"Sahrdaya College of Engineering and Technology, Thrissur",S,27959,45001,34165,-,40892,-,32517,-,-,-,66913,-,-,FW:14266,47
+Bio Medical Engineering,TKI,"T K M Institute of Technology, Kollam",S,20283,28551,23107,42322,-,40845,21409,45690,-,-,54707,-,-,FW:11450,47
+Biomedical & Robotic Engineering,JIT,"John Cox Memorial C S I Institute of Technology, Thiruvananthapuram",S,46076,46553,51757,-,-,-,-,-,-,-,52236,-,-,,48
+Bio Technology,MET,"Mets School of Engineering, Thrissur",S,36858,54057,55950,-,38145,65201,-,-,-,-,65513,-,52834,,48
+Bio Technology,SHR,"Sahrdaya College of Engineering and Technology, Thrissur",S,24914,39364,38305,-,37915,-,59033,-,-,-,-,-,-,FW:16427,48
+Electronics & Instrumentation,FIT,"Federal Institute of Science and Technology, Ernakulam",S,25254,29628,32247,46962,-,38725,26406,-,-,-,61743,-,45542,FW:20751,48
+Electronics & Instrumentation,SIT,"Sarabhai Institute of Science and Technology, Thiruvananthapuram",S,63020,-,-,-,-,-,-,-,-,-,-,-,-,,48
+Safety & Fire Engineering,EKC,"Eranad Knowledge City Technical Campus, Malappuram",S,63470,64813,-,-,-,-,64431,-,-,-,-,-,-,,48
+Safety & Fire Engineering,KME,"K M E A Engineering College, Cochin",S,61772,-,62837,-,-,-,-,-,-,-,62942,-,-,FW:47317,48
+Safety & Fire Engineering,MLM,"Mangalam College of Engineering, Kottayam",S,55135,-,-,-,-,-,-,-,-,-,-,-,-,,48
+Safety & Fire Engineering,TOC,"Toc H Institute of Science and Technology, Ernakulam",S,25838,27191,28034,-,-,-,32549,-,-,-,40493,-,47333,FW:10170,48
+Computer Science & Engineering (Internet of Things & Cyber Security including Block Chain,PRC,"Providence College of Engineering, Chengannur",S,40134,44074,41872,53324,-,-,-,-,-,-,-,-,-,,48
+Computer Science and Engineering (Artificial Intelligence and Data Science),CIM,"Mentor Academy for Design Entrepreneurship Innovation and Technology , Ettapilly, Ernakulam",S,62295,63335,67345,-,-,-,-,66243,-,-,-,-,-,,49
+Internet of Things,JBT,"Jai Bharath College of Management and Engineering Technology, Ernakulam",S,66710,-,-,-,-,-,-,-,-,-,-,-,-,,49
+Metallurgical and Materials Engineering,AJC,"Amal Jyothi College of Engineering, Kottayam",S,35687,62208,52410,-,-,-,-,-,-,-,-,-,-,FW:21980,49
+Mechatronics Engineering,JEC,"Jyothi Engineering College, Thrissur",S,42037,56236,55016,-,-,58789,43505,-,-,-,-,-,-,FW:18600,49
+Mechatronics Engineering,MEC,"Malabar College of Engineering and Technology, Thrissur",S,62101,-,-,-,-,-,-,-,-,-,-,-,-,,49
+Mechatronics Engineering,MHP,"ACE College Of Engineering, Thiruvananthapuram",S,64838,-,-,-,-,-,-,-,-,-,-,-,-,,49
+Mechatronics Engineering,NCE,"Nehru College of Engineering and Research Centre, Thrissur",S,64531,-,65603,-,-,-,65076,-,-,-,-,-,-,,49
+Mechatronics Engineering,NIE,"Nirmala College of Engineering Technology and Management, Thirissur",S,67420,-,-,-,-,-,-,-,-,-,-,-,-,,49
+Robotics and Automation Engineering,ASI,"Adi Shankara Institute of Engineering and Technology, Ernakulam",S,40636,53778,54382,50916,-,42927,49543,67030,-,-,67321,-,-,FW:26354,50
+Robotics and Automation Engineering,KME,"K M E A Engineering College, Cochin",S,57038,-,58260,-,-,-,-,-,-,-,64663,-,-,FW:48379,50
+Robotics and Automation Engineering,MGP,"Saintgits College of Engineering, Kottayam",S,42397,60203,63523,-,-,43821,52392,-,54789,-,-,-,-,FW:35660,50
+Robotics and Automation Engineering,RIE,"Rajadhani Institute of Engineering and Technology, Thiruvananthapuram",S,45624,54517,49820,-,-,-,-,-,-,-,66717,-,-,,50
+Robotics and Automation Engineering,TOC,"Toc H Institute of Science and Technology, Ernakulam",S,41312,50944,59747,54004,-,45290,49365,-,-,-,64417,-,65286,FW:26186,50
+Naval Arch. & Ship Building Engineering,CKC,"Christ Knowledge City, Ernakulam",S,51044,60810,66578,52933,65162,-,59244,-,-,-,65869,-,52962,,50
+Naval Arch. & Ship Building Engineering,SNG,"Sree Narayana Gurukulam College of Engineering, Ernakulam",S,38715,46120,51338,53913,45016,44788,52371,-,38718,43914,59861,-,54055,FW:27357,50

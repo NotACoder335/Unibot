@@ -1,0 +1,13 @@
+college_id,college_name,short_name,district,ownership,college_type,official_website,hostel_available,data_verification_note,description
+KEC001,College of Engineering Trivandrum,CET,Thiruvananthapuram,Government,Engineering College,https://www.cet.ac.in/,Yes,Populate from official college/CEE sources,Government engineering institution
+KEC002,Government Engineering College Thrissur,GECT,Thrissur,Government,Engineering College,https://gectcr.ac.in/,Yes,Populate from official college/CEE sources,Government engineering institution
+KEC003,Government Engineering College Barton Hill,GECBH,Thiruvananthapuram,Government,Engineering College,https://www.gecbh.ac.in/,Yes,Populate from official college/CEE sources,Government engineering institution
+KEC004,Model Engineering College,MEC,Ernakulam,Government,Engineering College,https://mec.ac.in/,Yes,Populate from official college/CEE sources,Government engineering institution
+KEC005,TKM College of Engineering,TKM,Kollam,Government Aided,Engineering College,https://tkmce.ac.in/,Yes,Populate from official college/CEE sources,Aided engineering institution
+KEC006,Mar Athanasius College of Engineering,MACE,Ernakulam,Government Aided,Engineering College,https://mace.ac.in/,Yes,Populate from official college/CEE sources,Aided engineering institution
+KEC007,NSS College of Engineering,NSSCE,Palakkad,Government Aided,Engineering College,https://nssce.ac.in/,Yes,Populate from official college/CEE sources,Aided engineering institution
+KEC008,LBS Institute of Technology for Women,LBSITW,Thiruvananthapuram,Government,Engineering College,https://www.lbsitw.ac.in/,Yes,Populate from official college/CEE sources,Women's engineering institution
+KEC009,Rajiv Gandhi Institute of Technology,RIT,Kottayam,Government,Engineering College,https://rit.ac.in/,Yes,Populate from official college/CEE sources,Government engineering institution
+KEC010,Government Engineering College Sreekrishnapuram,GEC Palakkad,Palakkad,Government,Engineering College,https://gecskp.ac.in/,Yes,Populate from official college/CEE sources,Government engineering institution
+KEC011,SCMS School of Engineering and Technology,SSET,Ernakulam,Private Self-Financing,Engineering College,https://scmsgroup.org/sset/,Yes,Populate from official college/CEE sources,Self-financing institution
+KEC012,Federal Institute of Science and Technology,FISAT,Ernakulam,Private Self-Financing,Engineering College,https://www.fisat.ac.in/,Yes,Populate from official college/CEE sources,Self-financing institution

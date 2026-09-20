@@ -1,0 +1,13 @@
+college_id,college_name,course_code,course_name,field,duration,sanctioned_intake,course_description,intake_source_note
+KEC001,College of Engineering Trivandrum,CSE,Computer Science and Engineering,Engineering,4 years,Official intake required,"Programming, algorithms, systems, software and computing",Verify current AICTE/CEE intake
+KEC001,College of Engineering Trivandrum,ECE,Electronics and Communication Engineering,Engineering,4 years,Official intake required,"Electronics, communication systems, embedded systems and signal processing",Verify current intake
+KEC001,College of Engineering Trivandrum,EEE,Electrical and Electronics Engineering,Engineering,4 years,Official intake required,"Power systems, electrical machines, control and electronics",Verify current intake
+KEC002,Government Engineering College Thrissur,CSE,Computer Science and Engineering,Engineering,4 years,Official intake required,Computing and software engineering,Verify current intake
+KEC002,Government Engineering College Thrissur,ECE,Electronics and Communication Engineering,Engineering,4 years,Official intake required,Electronics and communication,Verify current intake
+KEC004,Model Engineering College,CSE,Computer Science and Engineering,Engineering,4 years,Official intake required,Computing and software engineering,Verify current intake
+KEC004,Model Engineering College,ECE,Electronics and Communication Engineering,Engineering,4 years,Official intake required,Electronics and communication,Verify current intake
+KEC005,TKM College of Engineering,CSE,Computer Science and Engineering,Engineering,4 years,Official intake required,Computing and software engineering,Verify current intake
+KEC006,Mar Athanasius College of Engineering,CSE,Computer Science and Engineering,Engineering,4 years,Official intake required,Computing and software engineering,Verify current intake
+KEC006,Mar Athanasius College of Engineering,AIML,Artificial Intelligence and Machine Learning,Engineering,4 years,Official intake required,"AI, machine learning, data science and computing",Verify current intake
+KEC006,Mar Athanasius College of Engineering,ECE,Electronics and Communication Engineering,Engineering,4 years,Official intake required,Electronics and communication,Verify current intake
+KEC007,NSS College of Engineering,CSE,Computer Science and Engineering,Engineering,4 years,Official intake required,Computing and software engineering,Verify current intake
