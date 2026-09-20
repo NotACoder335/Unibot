@@ -1,6 +1,7 @@
 # UniBot
 
 This project is a Retrieval-Augmented Generation (RAG) academic chatbot that answers questions using a local knowledge base built from academic and admission-related files.
+![UniBot demo](demo/demopic.png)
 
 ## 🏗️ Built With
 
@@ -20,6 +21,10 @@ The system combines:
 -  an Ollama-based LLM for answer generation
 -  a FastAPI API for the chatbot backend
 -  a simple web interface for chatting
+
+
+
+
 
 ## 📁 Main Files
 
